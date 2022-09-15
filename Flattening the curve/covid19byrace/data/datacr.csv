@@ -1,0 +1,2143 @@
+STATE.,Ratio,Race,Condition,State.Name
+AL,1.192461883,White,Senior,ALABAMA
+AL,0.703794696,Black,Senior,ALABAMA
+AL,0.245275205,Hispanic,Senior,ALABAMA
+AL,0.537807261,Asian,Senior,ALABAMA
+AL,0.850707857,American Indian or Alaska Native,Senior,ALABAMA
+AL,0.560473648,Native Hawaian or Pacific Islander,Senior,ALABAMA
+AL,1.05105118,White,Asthma,ALABAMA
+AL,0.922599503,Black,Asthma,ALABAMA
+AL,0.448388947,Hispanic,Asthma,ALABAMA
+AL,1.281643496,Asian,Asthma,ALABAMA
+AL,NA,Native Hawaian or Pacific Islander,Asthma,ALABAMA
+AL,5.314667365,American Indian or Alaska Native,Asthma,ALABAMA
+AL,1.092008238,White,COPD,ALABAMA
+AL,0.830997584,Black,COPD,ALABAMA
+AL,0.410500095,Hispanic,COPD,ALABAMA
+AL,0.431421189,Asian,COPD,ALABAMA
+AL,NA,Native Hawaian or Pacific Islander,COPD,ALABAMA
+AL,5.397685497,American Indian or Alaska Native,COPD,ALABAMA
+AL,0.991147906,White,Diabetes,ALABAMA
+AL,1.165407541,Black,Diabetes,ALABAMA
+AL,0.172047383,Hispanic,Diabetes,ALABAMA
+AL,1.264654143,Asian,Diabetes,ALABAMA
+AL,NA,Native Hawaian or Pacific Islander,Diabetes,ALABAMA
+AL,3.786845573,American Indian or Alaska Native,Diabetes,ALABAMA
+AL,1.001205979,White,Kidney Disease,ALABAMA
+AL,0.939653806,Black,Kidney Disease,ALABAMA
+AL,1.063382293,Hispanic,Kidney Disease,ALABAMA
+AL,NA,Asian,Kidney Disease,ALABAMA
+AL,7.822568451,American Indian or Alaska Native,Kidney Disease,ALABAMA
+AL,NA,Native Hawaian or Pacific Islander,Kidney Disease,ALABAMA
+AL,0.980488314,White,Obesity,ALABAMA
+AL,1.147650001,Black,Obesity,ALABAMA
+AL,0.642564976,Hispanic,Obesity,ALABAMA
+AL,0.882263623,Asian,Obesity,ALABAMA
+AL,1.837821007,American Indian or Alaska Native,Obesity,ALABAMA
+AL,0.009826655,Native Hawaian or Pacific Islander,Obesity,ALABAMA
+AL,1.04279168,White,Smoking,ALABAMA
+AL,0.920725957,Black,Smoking,ALABAMA
+AL,0.411702264,Hispanic,Smoking,ALABAMA
+AL,1.575729936,Asian,Smoking,ALABAMA
+AL,0.090556604,Native Hawaian or Pacific Islander,Smoking,ALABAMA
+AL,6.503347673,American Indian or Alaska Native,Smoking,ALABAMA
+AK,1.241973815,White,Senior,ALASKA
+AK,0.695498572,Black,Senior,ALASKA
+AK,0.413140609,Hispanic,Senior,ALASKA
+AK,1.531902419,Asian,Senior,ALASKA
+AK,0.812887993,American Indian or Alaska Native,Senior,ALASKA
+AK,0.637529816,Native Hawaian or Pacific Islander,Senior,ALASKA
+AK,0.952353063,White,Asthma,ALASKA
+AK,1.524114264,Black,Asthma,ALASKA
+AK,1.151194247,Hispanic,Asthma,ALASKA
+AK,5.144452939,Asian,Asthma,ALASKA
+AK,0.158577143,Native Hawaian or Pacific Islander,Asthma,ALASKA
+AK,1.372808714,American Indian or Alaska Native,Asthma,ALASKA
+AK,1.068496102,White,COPD,ALASKA
+AK,1.256450336,Black,COPD,ALASKA
+AK,0.442811497,Hispanic,COPD,ALASKA
+AK,4.404030574,Asian,COPD,ALASKA
+AK,0.035484517,Native Hawaian or Pacific Islander,COPD,ALASKA
+AK,1.570863088,American Indian or Alaska Native,COPD,ALASKA
+AK,1.080143894,White,Diabetes,ALASKA
+AK,2.523458173,Black,Diabetes,ALASKA
+AK,0.783027315,Hispanic,Diabetes,ALASKA
+AK,9.324633158,Asian,Diabetes,ALASKA
+AK,0.119999314,Native Hawaian or Pacific Islander,Diabetes,ALASKA
+AK,0.900689579,American Indian or Alaska Native,Diabetes,ALASKA
+AK,0.882165167,White,Kidney Disease,ALASKA
+AK,NA,Black,Kidney Disease,ALASKA
+AK,1.913689471,Hispanic,Kidney Disease,ALASKA
+AK,24.99917836,Asian,Kidney Disease,ALASKA
+AK,0.946252924,American Indian or Alaska Native,Kidney Disease,ALASKA
+AK,NA,Native Hawaian or Pacific Islander,Kidney Disease,ALASKA
+AK,1.046236364,White,Obesity,ALASKA
+AK,1.427859199,Black,Obesity,ALASKA
+AK,0.77845611,Hispanic,Obesity,ALASKA
+AK,12.07153898,Asian,Obesity,ALASKA
+AK,0.948551689,American Indian or Alaska Native,Obesity,ALASKA
+AK,0.315468186,Native Hawaian or Pacific Islander,Obesity,ALASKA
+AK,0.805234482,White,Smoking,ALASKA
+AK,1.472609468,Black,Smoking,ALASKA
+AK,0.714131485,Hispanic,Smoking,ALASKA
+AK,12.10301295,Asian,Smoking,ALASKA
+AK,0.41398596,Native Hawaian or Pacific Islander,Smoking,ALASKA
+AK,1.934094152,American Indian or Alaska Native,Smoking,ALASKA
+AZ,1.467753748,White,Senior,ARIZONA
+AZ,0.528217643,Black,Senior,ARIZONA
+AZ,0.389053774,Hispanic,Senior,ARIZONA
+AZ,0.876177677,Asian,Senior,ARIZONA
+AZ,0.517447099,American Indian or Alaska Native,Senior,ARIZONA
+AZ,0.53885734,Native Hawaian or Pacific Islander,Senior,ARIZONA
+AZ,1.131939028,White,Asthma,ARIZONA
+AZ,1.272613052,Black,Asthma,ARIZONA
+AZ,0.732980299,Hispanic,Asthma,ARIZONA
+AZ,2.957696206,Asian,Asthma,ARIZONA
+AZ,0.031674844,Native Hawaian or Pacific Islander,Asthma,ARIZONA
+AZ,1.196801796,American Indian or Alaska Native,Asthma,ARIZONA
+AZ,1.41196891,White,COPD,ARIZONA
+AZ,1.046198365,Black,COPD,ARIZONA
+AZ,0.400091873,Hispanic,COPD,ARIZONA
+AZ,1.422514491,Asian,COPD,ARIZONA
+AZ,0.025715878,Native Hawaian or Pacific Islander,COPD,ARIZONA
+AZ,0.621249539,American Indian or Alaska Native,COPD,ARIZONA
+AZ,0.956073136,White,Diabetes,ARIZONA
+AZ,1.180452144,Black,Diabetes,ARIZONA
+AZ,1.01120733,Hispanic,Diabetes,ARIZONA
+AZ,1.252546487,Asian,Diabetes,ARIZONA
+AZ,0.009028604,Native Hawaian or Pacific Islander,Diabetes,ARIZONA
+AZ,2.019281917,American Indian or Alaska Native,Diabetes,ARIZONA
+AZ,1.225827947,White,Kidney Disease,ARIZONA
+AZ,1.147858481,Black,Kidney Disease,ARIZONA
+AZ,0.688711007,Hispanic,Kidney Disease,ARIZONA
+AZ,NA,Asian,Kidney Disease,ARIZONA
+AZ,0.823967477,American Indian or Alaska Native,Kidney Disease,ARIZONA
+AZ,NA,Native Hawaian or Pacific Islander,Kidney Disease,ARIZONA
+AZ,1.033568104,White,Obesity,ARIZONA
+AZ,1.087278517,Black,Obesity,ARIZONA
+AZ,0.97088698,Hispanic,Obesity,ARIZONA
+AZ,1.224736324,Asian,Obesity,ARIZONA
+AZ,1.484297833,American Indian or Alaska Native,Obesity,ARIZONA
+AZ,0.014073415,Native Hawaian or Pacific Islander,Obesity,ARIZONA
+AZ,1.110700639,White,Smoking,ARIZONA
+AZ,0.906785659,Black,Smoking,ARIZONA
+AZ,0.830643606,Hispanic,Smoking,ARIZONA
+AZ,4.724212815,Asian,Smoking,ARIZONA
+AZ,0.118650868,Native Hawaian or Pacific Islander,Smoking,ARIZONA
+AZ,1.008643361,American Indian or Alaska Native,Smoking,ARIZONA
+AR,1.193995138,White,Senior,ARKANSAS
+AR,0.622087326,Black,Senior,ARKANSAS
+AR,0.207288303,Hispanic,Senior,ARKANSAS
+AR,0.44997004,Asian,Senior,ARKANSAS
+AR,0.602118974,American Indian or Alaska Native,Senior,ARKANSAS
+AR,0.368078344,Native Hawaian or Pacific Islander,Senior,ARKANSAS
+AR,0.980497812,White,Asthma,ARKANSAS
+AR,1.084330022,Black,Asthma,ARKANSAS
+AR,0.869814382,Hispanic,Asthma,ARKANSAS
+AR,NA,Asian,Asthma,ARKANSAS
+AR,NA,Native Hawaian or Pacific Islander,Asthma,ARKANSAS
+AR,4.055710061,American Indian or Alaska Native,Asthma,ARKANSAS
+AR,1.143719949,White,COPD,ARKANSAS
+AR,0.624353936,Black,COPD,ARKANSAS
+AR,0.415479211,Hispanic,COPD,ARKANSAS
+AR,NA,Asian,COPD,ARKANSAS
+AR,NA,Native Hawaian or Pacific Islander,COPD,ARKANSAS
+AR,3.918379066,American Indian or Alaska Native,COPD,ARKANSAS
+AR,1.031894806,White,Diabetes,ARKANSAS
+AR,1.138492424,Black,Diabetes,ARKANSAS
+AR,0.452990408,Hispanic,Diabetes,ARKANSAS
+AR,0.974873074,Asian,Diabetes,ARKANSAS
+AR,NA,Native Hawaian or Pacific Islander,Diabetes,ARKANSAS
+AR,3.401933899,American Indian or Alaska Native,Diabetes,ARKANSAS
+AR,1.029849154,White,Kidney Disease,ARKANSAS
+AR,1.013131967,Black,Kidney Disease,ARKANSAS
+AR,0.580513875,Hispanic,Kidney Disease,ARKANSAS
+AR,NA,Asian,Kidney Disease,ARKANSAS
+AR,3.872275425,American Indian or Alaska Native,Kidney Disease,ARKANSAS
+AR,NA,Native Hawaian or Pacific Islander,Kidney Disease,ARKANSAS
+AR,1.019989448,White,Obesity,ARKANSAS
+AR,1.088374602,Black,Obesity,ARKANSAS
+AR,0.713321248,Hispanic,Obesity,ARKANSAS
+AR,0.201356929,Asian,Obesity,ARKANSAS
+AR,3.23639777,American Indian or Alaska Native,Obesity,ARKANSAS
+AR,0.036870413,Native Hawaian or Pacific Islander,Obesity,ARKANSAS
+AR,1.060269756,White,Smoking,ARKANSAS
+AR,0.846528072,Black,Smoking,ARKANSAS
+AR,0.576022282,Hispanic,Smoking,ARKANSAS
+AR,2.401834863,Asian,Smoking,ARKANSAS
+AR,0.057425535,Native Hawaian or Pacific Islander,Smoking,ARKANSAS
+AR,5.180288055,American Indian or Alaska Native,Smoking,ARKANSAS
+CA,1.554053896,White,Senior,CALIFORNIA
+CA,0.923643258,Black,Senior,CALIFORNIA
+CA,0.497227795,Hispanic,Senior,CALIFORNIA
+CA,1.37506493,Asian,Senior,CALIFORNIA
+CA,1.093688988,American Indian or Alaska Native,Senior,CALIFORNIA
+CA,0.928173131,Native Hawaian or Pacific Islander,Senior,CALIFORNIA
+CA,1.166419384,White,Asthma,CALIFORNIA
+CA,1.599460328,Black,Asthma,CALIFORNIA
+CA,0.778714296,Hispanic,Asthma,CALIFORNIA
+CA,2.560212816,Asian,Asthma,CALIFORNIA
+CA,0.021739717,Native Hawaian or Pacific Islander,Asthma,CALIFORNIA
+CA,2.755684557,American Indian or Alaska Native,Asthma,CALIFORNIA
+CA,1.418889356,White,COPD,CALIFORNIA
+CA,1.4141847,Black,COPD,CALIFORNIA
+CA,0.693344248,Hispanic,COPD,CALIFORNIA
+CA,1.282865581,Asian,COPD,CALIFORNIA
+CA,0.01851199,Native Hawaian or Pacific Islander,COPD,CALIFORNIA
+CA,3.470314756,American Indian or Alaska Native,COPD,CALIFORNIA
+CA,0.824580123,White,Diabetes,CALIFORNIA
+CA,1.451180008,Black,Diabetes,CALIFORNIA
+CA,1.032999182,Hispanic,Diabetes,CALIFORNIA
+CA,3.498708395,Asian,Diabetes,CALIFORNIA
+CA,0.016031807,Native Hawaian or Pacific Islander,Diabetes,CALIFORNIA
+CA,2.924331419,American Indian or Alaska Native,Diabetes,CALIFORNIA
+CA,1.143199087,White,Kidney Disease,CALIFORNIA
+CA,0.695358439,Black,Kidney Disease,CALIFORNIA
+CA,0.96382349,Hispanic,Kidney Disease,CALIFORNIA
+CA,2.220330456,Asian,Kidney Disease,CALIFORNIA
+CA,2.567158676,American Indian or Alaska Native,Kidney Disease,CALIFORNIA
+CA,NA,Native Hawaian or Pacific Islander,Kidney Disease,CALIFORNIA
+CA,0.984757138,White,Obesity,CALIFORNIA
+CA,1.625299548,Black,Obesity,CALIFORNIA
+CA,1.136787022,Hispanic,Obesity,CALIFORNIA
+CA,1.420232858,Asian,Obesity,CALIFORNIA
+CA,1.792576966,American Indian or Alaska Native,Obesity,CALIFORNIA
+CA,0.026327793,Native Hawaian or Pacific Islander,Obesity,CALIFORNIA
+CA,1.134399821,White,Smoking,CALIFORNIA
+CA,1.228473402,Black,Smoking,CALIFORNIA
+CA,0.912792107,Hispanic,Smoking,CALIFORNIA
+CA,2.180121344,Asian,Smoking,CALIFORNIA
+CA,0.04012244,Native Hawaian or Pacific Islander,Smoking,CALIFORNIA
+CA,2.675940008,American Indian or Alaska Native,Smoking,CALIFORNIA
+CO,1.224362225,White,Senior,COLORADO
+CO,0.670364895,Black,Senior,COLORADO
+CO,0.474338663,Hispanic,Senior,COLORADO
+CO,1.072093125,Asian,Senior,COLORADO
+CO,0.689673349,American Indian or Alaska Native,Senior,COLORADO
+CO,0.57648485,Native Hawaian or Pacific Islander,Senior,COLORADO
+CO,1.075571153,White,Asthma,COLORADO
+CO,1.093566922,Black,Asthma,COLORADO
+CO,0.728937565,Hispanic,Asthma,COLORADO
+CO,2.333212954,Asian,Asthma,COLORADO
+CO,0.120939269,Native Hawaian or Pacific Islander,Asthma,COLORADO
+CO,2.393114022,American Indian or Alaska Native,Asthma,COLORADO
+CO,1.155213472,White,COPD,COLORADO
+CO,1.172516211,Black,COPD,COLORADO
+CO,0.509109374,Hispanic,COPD,COLORADO
+CO,1.207034053,Asian,COPD,COLORADO
+CO,0.24339133,Native Hawaian or Pacific Islander,COPD,COLORADO
+CO,2.524996346,American Indian or Alaska Native,COPD,COLORADO
+CO,0.967040639,White,Diabetes,COLORADO
+CO,1.175374739,Black,Diabetes,COLORADO
+CO,1.145940783,Hispanic,Diabetes,COLORADO
+CO,2.504564837,Asian,Diabetes,COLORADO
+CO,0.06906887,Native Hawaian or Pacific Islander,Diabetes,COLORADO
+CO,0.753308759,American Indian or Alaska Native,Diabetes,COLORADO
+CO,1.165287448,White,Kidney Disease,COLORADO
+CO,1.144118331,Black,Kidney Disease,COLORADO
+CO,0.664103414,Hispanic,Kidney Disease,COLORADO
+CO,0.549836235,Asian,Kidney Disease,COLORADO
+CO,0.784904873,American Indian or Alaska Native,Kidney Disease,COLORADO
+CO,NA,Native Hawaian or Pacific Islander,Kidney Disease,COLORADO
+CO,1.001362086,White,Obesity,COLORADO
+CO,1.11110475,Black,Obesity,COLORADO
+CO,1.048042329,Hispanic,Obesity,COLORADO
+CO,0.866473799,Asian,Obesity,COLORADO
+CO,1.665254229,American Indian or Alaska Native,Obesity,COLORADO
+CO,0.169638724,Native Hawaian or Pacific Islander,Obesity,COLORADO
+CO,0.975624461,White,Smoking,COLORADO
+CO,1.17247357,Black,Smoking,COLORADO
+CO,0.981752722,Hispanic,Smoking,COLORADO
+CO,2.51262665,Asian,Smoking,COLORADO
+CO,0.221879504,Native Hawaian or Pacific Islander,Smoking,COLORADO
+CO,2.409283082,American Indian or Alaska Native,Smoking,COLORADO
+CT,1.260544602,White,Senior,CONNECTICUT
+CT,0.652538549,Black,Senior,CONNECTICUT
+CT,0.355372078,Hispanic,Senior,CONNECTICUT
+CT,0.599171649,Asian,Senior,CONNECTICUT
+CT,0.979442499,American Indian or Alaska Native,Senior,CONNECTICUT
+CT,0.448016992,Native Hawaian or Pacific Islander,Senior,CONNECTICUT
+CT,0.906648152,White,Asthma,CONNECTICUT
+CT,1.231664085,Black,Asthma,CONNECTICUT
+CT,1.345292263,Hispanic,Asthma,CONNECTICUT
+CT,2.077107124,Asian,Asthma,CONNECTICUT
+CT,0.058713142,Native Hawaian or Pacific Islander,Asthma,CONNECTICUT
+CT,2.393584246,American Indian or Alaska Native,Asthma,CONNECTICUT
+CT,1.158264983,White,COPD,CONNECTICUT
+CT,0.688190199,Black,COPD,CONNECTICUT
+CT,0.688776826,Hispanic,COPD,CONNECTICUT
+CT,0.120866878,Asian,COPD,CONNECTICUT
+CT,NA,Native Hawaian or Pacific Islander,COPD,CONNECTICUT
+CT,6.860299698,American Indian or Alaska Native,COPD,CONNECTICUT
+CT,0.974352363,White,Diabetes,CONNECTICUT
+CT,1.569489878,Black,Diabetes,CONNECTICUT
+CT,0.886441716,Hispanic,Diabetes,CONNECTICUT
+CT,2.587145813,Asian,Diabetes,CONNECTICUT
+CT,0.020823284,Native Hawaian or Pacific Islander,Diabetes,CONNECTICUT
+CT,1.268520879,American Indian or Alaska Native,Diabetes,CONNECTICUT
+CT,0.987400658,White,Kidney Disease,CONNECTICUT
+CT,1.665013232,Black,Kidney Disease,CONNECTICUT
+CT,0.943996876,Hispanic,Kidney Disease,CONNECTICUT
+CT,0.567986354,Asian,Kidney Disease,CONNECTICUT
+CT,1.237994665,American Indian or Alaska Native,Kidney Disease,CONNECTICUT
+CT,NA,Native Hawaian or Pacific Islander,Kidney Disease,CONNECTICUT
+CT,0.995117343,White,Obesity,CONNECTICUT
+CT,1.301491767,Black,Obesity,CONNECTICUT
+CT,1.044873359,Hispanic,Obesity,CONNECTICUT
+CT,1.161841712,Asian,Obesity,CONNECTICUT
+CT,2.993117771,American Indian or Alaska Native,Obesity,CONNECTICUT
+CT,0.022374563,Native Hawaian or Pacific Islander,Obesity,CONNECTICUT
+CT,0.916140879,White,Smoking,CONNECTICUT
+CT,1.462387501,Black,Smoking,CONNECTICUT
+CT,1.257196316,Hispanic,Smoking,CONNECTICUT
+CT,1.110552069,Asian,Smoking,CONNECTICUT
+CT,0.014681964,Native Hawaian or Pacific Islander,Smoking,CONNECTICUT
+CT,4.230299737,American Indian or Alaska Native,Smoking,CONNECTICUT
+DE,1.284367168,White,Senior,DELAWARE
+DE,0.653424012,Black,Senior,DELAWARE
+DE,0.240532387,Hispanic,Senior,DELAWARE
+DE,0.493929417,Asian,Senior,DELAWARE
+DE,1.202461697,American Indian or Alaska Native,Senior,DELAWARE
+DE,0.618056224,Native Hawaian or Pacific Islander,Senior,DELAWARE
+DE,1.023862747,White,Asthma,DELAWARE
+DE,1.14226833,Black,Asthma,DELAWARE
+DE,0.749591218,Hispanic,Asthma,DELAWARE
+DE,1.794209495,Asian,Asthma,DELAWARE
+DE,0.008921221,Native Hawaian or Pacific Islander,Asthma,DELAWARE
+DE,2.788822915,American Indian or Alaska Native,Asthma,DELAWARE
+DE,1.125750544,White,COPD,DELAWARE
+DE,0.975043805,Black,COPD,DELAWARE
+DE,0.558290485,Hispanic,COPD,DELAWARE
+DE,0.80774946,Asian,COPD,DELAWARE
+DE,0.172015416,Native Hawaian or Pacific Islander,COPD,DELAWARE
+DE,2.375744585,American Indian or Alaska Native,COPD,DELAWARE
+DE,1.031529336,White,Diabetes,DELAWARE
+DE,1.234475461,Black,Diabetes,DELAWARE
+DE,0.510381561,Hispanic,Diabetes,DELAWARE
+DE,1.703371374,Asian,Diabetes,DELAWARE
+DE,0.070826313,Native Hawaian or Pacific Islander,Diabetes,DELAWARE
+DE,2.47407152,American Indian or Alaska Native,Diabetes,DELAWARE
+DE,1.030449528,White,Kidney Disease,DELAWARE
+DE,1.449434633,Black,Kidney Disease,DELAWARE
+DE,0.236501458,Hispanic,Kidney Disease,DELAWARE
+DE,NA,Asian,Kidney Disease,DELAWARE
+DE,1.304840125,American Indian or Alaska Native,Kidney Disease,DELAWARE
+DE,0.05274112,Native Hawaian or Pacific Islander,Kidney Disease,DELAWARE
+DE,1.043358985,White,Obesity,DELAWARE
+DE,1.17839855,Black,Obesity,DELAWARE
+DE,0.620955848,Hispanic,Obesity,DELAWARE
+DE,1.424949445,Asian,Obesity,DELAWARE
+DE,1.939574738,American Indian or Alaska Native,Obesity,DELAWARE
+DE,0.023521218,Native Hawaian or Pacific Islander,Obesity,DELAWARE
+DE,1.081979694,White,Smoking,DELAWARE
+DE,1.00530062,Black,Smoking,DELAWARE
+DE,0.829613513,Hispanic,Smoking,DELAWARE
+DE,0.949785665,Asian,Smoking,DELAWARE
+DE,0.05270652,Native Hawaian or Pacific Islander,Smoking,DELAWARE
+DE,1.496117978,American Indian or Alaska Native,Smoking,DELAWARE
+DC,0.960278507,White,Senior,DISTRICT OF COLUMBIA
+DC,1.233346751,Black,Senior,DISTRICT OF COLUMBIA
+DC,0.439495917,Hispanic,Senior,DISTRICT OF COLUMBIA
+DC,0.713107916,Asian,Senior,DISTRICT OF COLUMBIA
+DC,1.563152221,American Indian or Alaska Native,Senior,DISTRICT OF COLUMBIA
+DC,0.480289483,Native Hawaian or Pacific Islander,Senior,DISTRICT OF COLUMBIA
+DC,0.939348948,White,Asthma,DISTRICT OF COLUMBIA
+DC,1.018276474,Black,Asthma,DISTRICT OF COLUMBIA
+DC,1.016473832,Hispanic,Asthma,DISTRICT OF COLUMBIA
+DC,1.697599268,Asian,Asthma,DISTRICT OF COLUMBIA
+DC,0.048320873,Native Hawaian or Pacific Islander,Asthma,DISTRICT OF COLUMBIA
+DC,11.30382864,American Indian or Alaska Native,Asthma,DISTRICT OF COLUMBIA
+DC,0.431484921,White,COPD,DISTRICT OF COLUMBIA
+DC,1.578715868,Black,COPD,DISTRICT OF COLUMBIA
+DC,0.413551072,Hispanic,COPD,DISTRICT OF COLUMBIA
+DC,1.941576219,Asian,COPD,DISTRICT OF COLUMBIA
+DC,NA,Native Hawaian or Pacific Islander,COPD,DISTRICT OF COLUMBIA
+DC,9.204365067,American Indian or Alaska Native,COPD,DISTRICT OF COLUMBIA
+DC,0.287593649,White,Diabetes,DISTRICT OF COLUMBIA
+DC,1.645295619,Black,Diabetes,DISTRICT OF COLUMBIA
+DC,0.93581186,Hispanic,Diabetes,DISTRICT OF COLUMBIA
+DC,0.79418482,Asian,Diabetes,DISTRICT OF COLUMBIA
+DC,0.047862084,Native Hawaian or Pacific Islander,Diabetes,DISTRICT OF COLUMBIA
+DC,5.61038844,American Indian or Alaska Native,Diabetes,DISTRICT OF COLUMBIA
+DC,0.46115448,White,Kidney Disease,DISTRICT OF COLUMBIA
+DC,1.542647396,Black,Kidney Disease,DISTRICT OF COLUMBIA
+DC,0.899653279,Hispanic,Kidney Disease,DISTRICT OF COLUMBIA
+DC,NA,Asian,Kidney Disease,DISTRICT OF COLUMBIA
+DC,2.965161597,American Indian or Alaska Native,Kidney Disease,DISTRICT OF COLUMBIA
+DC,NA,Native Hawaian or Pacific Islander,Kidney Disease,DISTRICT OF COLUMBIA
+DC,0.581212645,White,Obesity,DISTRICT OF COLUMBIA
+DC,1.32899943,Black,Obesity,DISTRICT OF COLUMBIA
+DC,1.179393249,Hispanic,Obesity,DISTRICT OF COLUMBIA
+DC,0.989312488,Asian,Obesity,DISTRICT OF COLUMBIA
+DC,7.89767887,American Indian or Alaska Native,Obesity,DISTRICT OF COLUMBIA
+DC,0.070162267,Native Hawaian or Pacific Islander,Obesity,DISTRICT OF COLUMBIA
+DC,0.592727431,White,Smoking,DISTRICT OF COLUMBIA
+DC,1.399067052,Black,Smoking,DISTRICT OF COLUMBIA
+DC,0.55110325,Hispanic,Smoking,DISTRICT OF COLUMBIA
+DC,1.368603881,Asian,Smoking,DISTRICT OF COLUMBIA
+DC,0.035078088,Native Hawaian or Pacific Islander,Smoking,DISTRICT OF COLUMBIA
+DC,17.12764977,American Indian or Alaska Native,Smoking,DISTRICT OF COLUMBIA
+FL,1.37006593,White,Senior,FLORIDA
+FL,0.525943644,Black,Senior,FLORIDA
+FL,0.586949447,Hispanic,Senior,FLORIDA
+FL,0.722298166,Asian,Senior,FLORIDA
+FL,0.827574487,American Indian or Alaska Native,Senior,FLORIDA
+FL,0.639480685,Native Hawaian or Pacific Islander,Senior,FLORIDA
+FL,0.958465015,White,Asthma,FLORIDA
+FL,0.947221894,Black,Asthma,FLORIDA
+FL,1.178653559,Hispanic,Asthma,FLORIDA
+FL,2.021852588,Asian,Asthma,FLORIDA
+FL,0.015133718,Native Hawaian or Pacific Islander,Asthma,FLORIDA
+FL,6.320785202,American Indian or Alaska Native,Asthma,FLORIDA
+FL,1.255054863,White,COPD,FLORIDA
+FL,0.599180404,Black,COPD,FLORIDA
+FL,0.766517762,Hispanic,COPD,FLORIDA
+FL,0.240187424,Asian,COPD,FLORIDA
+FL,0.006326986,Native Hawaian or Pacific Islander,COPD,FLORIDA
+FL,7.023406536,American Indian or Alaska Native,COPD,FLORIDA
+FL,1.016829156,White,Diabetes,FLORIDA
+FL,1.141438676,Black,Diabetes,FLORIDA
+FL,0.925130815,Hispanic,Diabetes,FLORIDA
+FL,1.916690379,Asian,Diabetes,FLORIDA
+FL,0.139238551,Native Hawaian or Pacific Islander,Diabetes,FLORIDA
+FL,4.786161529,American Indian or Alaska Native,Diabetes,FLORIDA
+FL,1.106584802,White,Kidney Disease,FLORIDA
+FL,0.82732801,Black,Kidney Disease,FLORIDA
+FL,0.860765248,Hispanic,Kidney Disease,FLORIDA
+FL,2.629703918,Asian,Kidney Disease,FLORIDA
+FL,7.630861642,American Indian or Alaska Native,Kidney Disease,FLORIDA
+FL,0.028938345,Native Hawaian or Pacific Islander,Kidney Disease,FLORIDA
+FL,0.996681812,White,Obesity,FLORIDA
+FL,1.149286754,Black,Obesity,FLORIDA
+FL,0.982630695,Hispanic,Obesity,FLORIDA
+FL,1.616591915,Asian,Obesity,FLORIDA
+FL,3.640578372,American Indian or Alaska Native,Obesity,FLORIDA
+FL,0.063603722,Native Hawaian or Pacific Islander,Obesity,FLORIDA
+FL,1.158494071,White,Smoking,FLORIDA
+FL,0.722049432,Black,Smoking,FLORIDA
+FL,0.848561976,Hispanic,Smoking,FLORIDA
+FL,0.839784509,Asian,Smoking,FLORIDA
+FL,0.10643613,Native Hawaian or Pacific Islander,Smoking,FLORIDA
+FL,8.975544783,American Indian or Alaska Native,Smoking,FLORIDA
+GA,1.348538967,White,Senior,GEORGIA
+GA,0.71824278,Black,Senior,GEORGIA
+GA,0.2622184,Hispanic,Senior,GEORGIA
+GA,0.692912069,Asian,Senior,GEORGIA
+GA,1.072049731,American Indian or Alaska Native,Senior,GEORGIA
+GA,0.614802147,Native Hawaian or Pacific Islander,Senior,GEORGIA
+GA,1.012601142,White,Asthma,GEORGIA
+GA,1.201220959,Black,Asthma,GEORGIA
+GA,0.501747601,Hispanic,Asthma,GEORGIA
+GA,2.885723587,Asian,Asthma,GEORGIA
+GA,0.016765003,Native Hawaian or Pacific Islander,Asthma,GEORGIA
+GA,1.478552221,American Indian or Alaska Native,Asthma,GEORGIA
+GA,1.322354778,White,COPD,GEORGIA
+GA,0.74635059,Black,COPD,GEORGIA
+GA,0.349115424,Hispanic,COPD,GEORGIA
+GA,0.293118949,Asian,COPD,GEORGIA
+GA,0.047107494,Native Hawaian or Pacific Islander,COPD,GEORGIA
+GA,3.50826106,American Indian or Alaska Native,COPD,GEORGIA
+GA,0.983635499,White,Diabetes,GEORGIA
+GA,1.182674915,Black,Diabetes,GEORGIA
+GA,0.651973131,Hispanic,Diabetes,GEORGIA
+GA,4.682744795,Asian,Diabetes,GEORGIA
+GA,0.085563683,Native Hawaian or Pacific Islander,Diabetes,GEORGIA
+GA,2.386970138,American Indian or Alaska Native,Diabetes,GEORGIA
+GA,1.15189762,White,Kidney Disease,GEORGIA
+GA,1.04441349,Black,Kidney Disease,GEORGIA
+GA,0.452874572,Hispanic,Kidney Disease,GEORGIA
+GA,0.794630878,Asian,Kidney Disease,GEORGIA
+GA,3.431824686,American Indian or Alaska Native,Kidney Disease,GEORGIA
+GA,NA,Native Hawaian or Pacific Islander,Kidney Disease,GEORGIA
+GA,0.987569509,White,Obesity,GEORGIA
+GA,1.259547413,Black,Obesity,GEORGIA
+GA,0.574219916,Hispanic,Obesity,GEORGIA
+GA,2.062941096,Asian,Obesity,GEORGIA
+GA,0.995607399,American Indian or Alaska Native,Obesity,GEORGIA
+GA,0.04379372,Native Hawaian or Pacific Islander,Obesity,GEORGIA
+GA,1.207734126,White,Smoking,GEORGIA
+GA,0.838621926,Black,Smoking,GEORGIA
+GA,0.604004365,Hispanic,Smoking,GEORGIA
+GA,2.117652555,Asian,Smoking,GEORGIA
+GA,0.042169818,Native Hawaian or Pacific Islander,Smoking,GEORGIA
+GA,2.559662589,American Indian or Alaska Native,Smoking,GEORGIA
+HI,1.196656952,White,Senior,HAWAII
+HI,0.314805148,Black,Senior,HAWAII
+HI,0.295510441,Hispanic,Senior,HAWAII
+HI,2.170752644,Asian,Senior,HAWAII
+HI,1.095798595,American Indian or Alaska Native,Senior,HAWAII
+HI,0.882825106,Native Hawaian or Pacific Islander,Senior,HAWAII
+HI,0.894620838,White,Asthma,HAWAII
+HI,0.658749877,Black,Asthma,HAWAII
+HI,1.299945077,Hispanic,Asthma,HAWAII
+HI,2.086853523,Asian,Asthma,HAWAII
+HI,0.364021503,Native Hawaian or Pacific Islander,Asthma,HAWAII
+HI,7.717013703,American Indian or Alaska Native,Asthma,HAWAII
+HI,1.168341113,White,COPD,HAWAII
+HI,0.213909727,Black,COPD,HAWAII
+HI,1.032038516,Hispanic,COPD,HAWAII
+HI,2.238798397,Asian,COPD,HAWAII
+HI,0.393480974,Native Hawaian or Pacific Islander,COPD,HAWAII
+HI,9.251617781,American Indian or Alaska Native,COPD,HAWAII
+HI,0.56164755,White,Diabetes,HAWAII
+HI,0.648366011,Black,Diabetes,HAWAII
+HI,0.828221036,Hispanic,Diabetes,HAWAII
+HI,3.289896236,Asian,Diabetes,HAWAII
+HI,0.348969388,Native Hawaian or Pacific Islander,Diabetes,HAWAII
+HI,2.645266485,American Indian or Alaska Native,Diabetes,HAWAII
+HI,1.073051742,White,Kidney Disease,HAWAII
+HI,0.247465609,Black,Kidney Disease,HAWAII
+HI,0.618613202,Hispanic,Kidney Disease,HAWAII
+HI,2.384638565,Asian,Kidney Disease,HAWAII
+HI,7.781130067,American Indian or Alaska Native,Kidney Disease,HAWAII
+HI,0.437547173,Native Hawaian or Pacific Islander,Kidney Disease,HAWAII
+HI,0.8119834,White,Obesity,HAWAII
+HI,1.413063744,Black,Obesity,HAWAII
+HI,1.217227359,Hispanic,Obesity,HAWAII
+HI,1.671954601,Asian,Obesity,HAWAII
+HI,3.605912561,American Indian or Alaska Native,Obesity,HAWAII
+HI,0.621410128,Native Hawaian or Pacific Islander,Obesity,HAWAII
+HI,0.957977866,White,Smoking,HAWAII
+HI,0.96322485,Black,Smoking,HAWAII
+HI,1.404383801,Hispanic,Smoking,HAWAII
+HI,1.607080418,Asian,Smoking,HAWAII
+HI,0.574306821,Native Hawaian or Pacific Islander,Smoking,HAWAII
+HI,8.285860442,American Indian or Alaska Native,Smoking,HAWAII
+ID,1.135685664,White,Senior,IDAHO
+ID,0.451016338,Black,Senior,IDAHO
+ID,0.273401453,Hispanic,Senior,IDAHO
+ID,1.124792889,Asian,Senior,IDAHO
+ID,0.785334368,American Indian or Alaska Native,Senior,IDAHO
+ID,0.576699845,Native Hawaian or Pacific Islander,Senior,IDAHO
+ID,1.018675423,White,Asthma,IDAHO
+ID,2.349683804,Black,Asthma,IDAHO
+ID,0.601063087,Hispanic,Asthma,IDAHO
+ID,0.224355131,Asian,Asthma,IDAHO
+ID,0.368389371,Native Hawaian or Pacific Islander,Asthma,IDAHO
+ID,2.502681723,American Indian or Alaska Native,Asthma,IDAHO
+ID,1.083859674,White,COPD,IDAHO
+ID,NA,Black,COPD,IDAHO
+ID,0.325968529,Hispanic,COPD,IDAHO
+ID,0.886741403,Asian,COPD,IDAHO
+ID,NA,Native Hawaian or Pacific Islander,COPD,IDAHO
+ID,3.004691024,American Indian or Alaska Native,COPD,IDAHO
+ID,1.003258773,White,Diabetes,IDAHO
+ID,2.342242192,Black,Diabetes,IDAHO
+ID,0.90818877,Hispanic,Diabetes,IDAHO
+ID,0.921512762,Asian,Diabetes,IDAHO
+ID,NA,Native Hawaian or Pacific Islander,Diabetes,IDAHO
+ID,2.073116541,American Indian or Alaska Native,Diabetes,IDAHO
+ID,1.043823642,White,Kidney Disease,IDAHO
+ID,NA,Black,Kidney Disease,IDAHO
+ID,0.745765463,Hispanic,Kidney Disease,IDAHO
+ID,1.609322331,Asian,Kidney Disease,IDAHO
+ID,NA,American Indian or Alaska Native,Kidney Disease,IDAHO
+ID,NA,Native Hawaian or Pacific Islander,Kidney Disease,IDAHO
+ID,1.02243414,White,Obesity,IDAHO
+ID,0.329208267,Black,Obesity,IDAHO
+ID,0.88085702,Hispanic,Obesity,IDAHO
+ID,1.087007639,Asian,Obesity,IDAHO
+ID,1.092272299,American Indian or Alaska Native,Obesity,IDAHO
+ID,0.695289465,Native Hawaian or Pacific Islander,Obesity,IDAHO
+ID,1.050361832,White,Smoking,IDAHO
+ID,1.556606288,Black,Smoking,IDAHO
+ID,0.437177542,Hispanic,Smoking,IDAHO
+ID,2.272229002,Asian,Smoking,IDAHO
+ID,0.705897878,Native Hawaian or Pacific Islander,Smoking,IDAHO
+ID,1.288746996,American Indian or Alaska Native,Smoking,IDAHO
+IL,1.256519179,White,Senior,ILLINOIS
+IL,0.812184694,Black,Senior,ILLINOIS
+IL,0.372249395,Hispanic,Senior,ILLINOIS
+IL,0.80534431,Asian,Senior,ILLINOIS
+IL,1.069619212,American Indian or Alaska Native,Senior,ILLINOIS
+IL,0.766437567,Native Hawaian or Pacific Islander,Senior,ILLINOIS
+IL,1.035214305,White,Asthma,ILLINOIS
+IL,1.507655093,Black,Asthma,ILLINOIS
+IL,0.612901632,Hispanic,Asthma,ILLINOIS
+IL,2.366596088,Asian,Asthma,ILLINOIS
+IL,NA,Native Hawaian or Pacific Islander,Asthma,ILLINOIS
+IL,5.270200359,American Indian or Alaska Native,Asthma,ILLINOIS
+IL,1.155109662,White,COPD,ILLINOIS
+IL,0.999367966,Black,COPD,ILLINOIS
+IL,0.586717827,Hispanic,COPD,ILLINOIS
+IL,2.537772055,Asian,COPD,ILLINOIS
+IL,NA,Native Hawaian or Pacific Islander,COPD,ILLINOIS
+IL,5.809072354,American Indian or Alaska Native,COPD,ILLINOIS
+IL,0.972522335,White,Diabetes,ILLINOIS
+IL,1.166049119,Black,Diabetes,ILLINOIS
+IL,1.038048113,Hispanic,Diabetes,ILLINOIS
+IL,3.353953786,Asian,Diabetes,ILLINOIS
+IL,0.050801267,Native Hawaian or Pacific Islander,Diabetes,ILLINOIS
+IL,8.757715648,American Indian or Alaska Native,Diabetes,ILLINOIS
+IL,1.085648517,White,Kidney Disease,ILLINOIS
+IL,1.024984786,Black,Kidney Disease,ILLINOIS
+IL,0.80674286,Hispanic,Kidney Disease,ILLINOIS
+IL,2.903324805,Asian,Kidney Disease,ILLINOIS
+IL,2.331352447,American Indian or Alaska Native,Kidney Disease,ILLINOIS
+IL,0.203989418,Native Hawaian or Pacific Islander,Kidney Disease,ILLINOIS
+IL,1.018489215,White,Obesity,ILLINOIS
+IL,1.27366077,Black,Obesity,ILLINOIS
+IL,0.96220169,Hispanic,Obesity,ILLINOIS
+IL,1.602012313,Asian,Obesity,ILLINOIS
+IL,3.827935154,American Indian or Alaska Native,Obesity,ILLINOIS
+IL,0.026424325,Native Hawaian or Pacific Islander,Obesity,ILLINOIS
+IL,1.086950552,White,Smoking,ILLINOIS
+IL,1.300343247,Black,Smoking,ILLINOIS
+IL,0.576812691,Hispanic,Smoking,ILLINOIS
+IL,2.524926625,Asian,Smoking,ILLINOIS
+IL,0.034043181,Native Hawaian or Pacific Islander,Smoking,ILLINOIS
+IL,5.732556927,American Indian or Alaska Native,Smoking,ILLINOIS
+IN,1.13824833,White,Senior,INDIANA
+IN,0.646008857,Black,Senior,INDIANA
+IN,0.273393445,Hispanic,Senior,INDIANA
+IN,0.339380919,Asian,Senior,INDIANA
+IN,0.973895933,American Indian or Alaska Native,Senior,INDIANA
+IN,0.436026733,Native Hawaian or Pacific Islander,Senior,INDIANA
+IN,1.013441584,White,Asthma,INDIANA
+IN,1.219477524,Black,Asthma,INDIANA
+IN,0.704158714,Hispanic,Asthma,INDIANA
+IN,1.087424361,Asian,Asthma,INDIANA
+IN,0.065652396,Native Hawaian or Pacific Islander,Asthma,INDIANA
+IN,3.275784637,American Indian or Alaska Native,Asthma,INDIANA
+IN,1.083974433,White,COPD,INDIANA
+IN,0.834750494,Black,COPD,INDIANA
+IN,0.319539721,Hispanic,COPD,INDIANA
+IN,1.281631122,Asian,COPD,INDIANA
+IN,0.011115865,Native Hawaian or Pacific Islander,COPD,INDIANA
+IN,5.031613197,American Indian or Alaska Native,COPD,INDIANA
+IN,1.041388577,White,Diabetes,INDIANA
+IN,1.094833066,Black,Diabetes,INDIANA
+IN,0.719128715,Hispanic,Diabetes,INDIANA
+IN,0.910086099,Asian,Diabetes,INDIANA
+IN,NA,Native Hawaian or Pacific Islander,Diabetes,INDIANA
+IN,2.839887796,American Indian or Alaska Native,Diabetes,INDIANA
+IN,1.024927231,White,Kidney Disease,INDIANA
+IN,1.359372917,Black,Kidney Disease,INDIANA
+IN,0.53197992,Hispanic,Kidney Disease,INDIANA
+IN,NA,Asian,Kidney Disease,INDIANA
+IN,0.477831158,American Indian or Alaska Native,Kidney Disease,INDIANA
+IN,NA,Native Hawaian or Pacific Islander,Kidney Disease,INDIANA
+IN,1.023045705,White,Obesity,INDIANA
+IN,1.098067432,Black,Obesity,INDIANA
+IN,0.872875456,Hispanic,Obesity,INDIANA
+IN,1.490887793,Asian,Obesity,INDIANA
+IN,2.070050901,American Indian or Alaska Native,Obesity,INDIANA
+IN,0.038591265,Native Hawaian or Pacific Islander,Obesity,INDIANA
+IN,1.063384489,White,Smoking,INDIANA
+IN,0.918034172,Black,Smoking,INDIANA
+IN,0.528227063,Hispanic,Smoking,INDIANA
+IN,1.555972741,Asian,Smoking,INDIANA
+IN,0.013971981,Native Hawaian or Pacific Islander,Smoking,INDIANA
+IN,2.180955149,American Indian or Alaska Native,Smoking,INDIANA
+IA,1.117536291,White,Senior,IOWA
+IA,0.344343483,Black,Senior,IOWA
+IA,0.217387216,Hispanic,Senior,IOWA
+IA,0.201592079,Asian,Senior,IOWA
+IA,0.675240195,American Indian or Alaska Native,Senior,IOWA
+IA,0.314390407,Native Hawaian or Pacific Islander,Senior,IOWA
+IA,0.987594145,White,Asthma,IOWA
+IA,1.800770616,Black,Asthma,IOWA
+IA,0.542176287,Hispanic,Asthma,IOWA
+IA,2.896289841,Asian,Asthma,IOWA
+IA,0.091810806,Native Hawaian or Pacific Islander,Asthma,IOWA
+IA,4.321613089,American Indian or Alaska Native,Asthma,IOWA
+IA,1.04857936,White,COPD,IOWA
+IA,0.991056406,Black,COPD,IOWA
+IA,0.241014189,Hispanic,COPD,IOWA
+IA,0.523999696,Asian,COPD,IOWA
+IA,NA,Native Hawaian or Pacific Islander,COPD,IOWA
+IA,8.325850538,American Indian or Alaska Native,COPD,IOWA
+IA,1.01284232,White,Diabetes,IOWA
+IA,1.401377851,Black,Diabetes,IOWA
+IA,0.776383084,Hispanic,Diabetes,IOWA
+IA,0.857152062,Asian,Diabetes,IOWA
+IA,0.108083213,Native Hawaian or Pacific Islander,Diabetes,IOWA
+IA,3.51352496,American Indian or Alaska Native,Diabetes,IOWA
+IA,0.952999518,White,Kidney Disease,IOWA
+IA,1.552283306,Black,Kidney Disease,IOWA
+IA,1.32678953,Hispanic,Kidney Disease,IOWA
+IA,3.759006968,Asian,Kidney Disease,IOWA
+IA,3.317798353,American Indian or Alaska Native,Kidney Disease,IOWA
+IA,0.171216086,Native Hawaian or Pacific Islander,Kidney Disease,IOWA
+IA,1.018725822,White,Obesity,IOWA
+IA,1.174813491,Black,Obesity,IOWA
+IA,0.825618437,Hispanic,Obesity,IOWA
+IA,2.400175373,Asian,Obesity,IOWA
+IA,2.610139331,American Indian or Alaska Native,Obesity,IOWA
+IA,0.054105352,Native Hawaian or Pacific Islander,Obesity,IOWA
+IA,0.998019584,White,Smoking,IOWA
+IA,1.243755406,Black,Smoking,IOWA
+IA,0.716078197,Hispanic,Smoking,IOWA
+IA,3.823341429,Asian,Smoking,IOWA
+IA,0.12522036,Native Hawaian or Pacific Islander,Smoking,IOWA
+IA,5.394075674,American Indian or Alaska Native,Smoking,IOWA
+KS,1.185351518,White,Senior,KANSAS
+KS,0.640350166,Black,Senior,KANSAS
+KS,0.291366585,Hispanic,Senior,KANSAS
+KS,0.690178983,Asian,Senior,KANSAS
+KS,0.741950242,American Indian or Alaska Native,Senior,KANSAS
+KS,0.42847729,Native Hawaian or Pacific Islander,Senior,KANSAS
+KS,1.026047429,White,Asthma,KANSAS
+KS,1.263559684,Black,Asthma,KANSAS
+KS,0.711258365,Hispanic,Asthma,KANSAS
+KS,1.93227358,Asian,Asthma,KANSAS
+KS,0.104523918,Native Hawaian or Pacific Islander,Asthma,KANSAS
+KS,2.809278252,American Indian or Alaska Native,Asthma,KANSAS
+KS,1.101581296,White,COPD,KANSAS
+KS,0.927799973,Black,COPD,KANSAS
+KS,0.375038311,Hispanic,COPD,KANSAS
+KS,1.232693695,Asian,COPD,KANSAS
+KS,NA,Native Hawaian or Pacific Islander,COPD,KANSAS
+KS,3.482568246,American Indian or Alaska Native,COPD,KANSAS
+KS,1.009725066,White,Diabetes,KANSAS
+KS,1.526822547,Black,Diabetes,KANSAS
+KS,0.745015156,Hispanic,Diabetes,KANSAS
+KS,4.112248195,Asian,Diabetes,KANSAS
+KS,0.035626708,Native Hawaian or Pacific Islander,Diabetes,KANSAS
+KS,2.736264728,American Indian or Alaska Native,Diabetes,KANSAS
+KS,1.155094299,White,Kidney Disease,KANSAS
+KS,0.669132103,Black,Kidney Disease,KANSAS
+KS,0.267542036,Hispanic,Kidney Disease,KANSAS
+KS,3.38564026,Asian,Kidney Disease,KANSAS
+KS,2.707186462,American Indian or Alaska Native,Kidney Disease,KANSAS
+KS,NA,Native Hawaian or Pacific Islander,Kidney Disease,KANSAS
+KS,1.029066011,White,Obesity,KANSAS
+KS,1.154452858,Black,Obesity,KANSAS
+KS,0.898231873,Hispanic,Obesity,KANSAS
+KS,1.870513815,Asian,Obesity,KANSAS
+KS,2.468836696,American Indian or Alaska Native,Obesity,KANSAS
+KS,0.025139548,Native Hawaian or Pacific Islander,Obesity,KANSAS
+KS,1.01582211,White,Smoking,KANSAS
+KS,1.15508987,Black,Smoking,KANSAS
+KS,0.804005241,Hispanic,Smoking,KANSAS
+KS,2.404620985,Asian,Smoking,KANSAS
+KS,0.062291417,Native Hawaian or Pacific Islander,Smoking,KANSAS
+KS,2.616176329,American Indian or Alaska Native,Smoking,KANSAS
+KY,1.091443314,White,Senior,KENTUCKY
+KY,0.665431113,Black,Senior,KENTUCKY
+KY,0.207589093,Hispanic,Senior,KENTUCKY
+KY,0.35561326,Asian,Senior,KENTUCKY
+KY,0.950150861,American Indian or Alaska Native,Senior,KENTUCKY
+KY,0.458960916,Native Hawaian or Pacific Islander,Senior,KENTUCKY
+KY,0.970296295,White,Asthma,KENTUCKY
+KY,1.348145351,Black,Asthma,KENTUCKY
+KY,0.800469566,Hispanic,Asthma,KENTUCKY
+KY,0.107781552,Asian,Asthma,KENTUCKY
+KY,NA,Native Hawaian or Pacific Islander,Asthma,KENTUCKY
+KY,12.23550894,American Indian or Alaska Native,Asthma,KENTUCKY
+KY,1.060172513,White,COPD,KENTUCKY
+KY,0.736400001,Black,COPD,KENTUCKY
+KY,0.454223075,Hispanic,COPD,KENTUCKY
+KY,0.01888967,Asian,COPD,KENTUCKY
+KY,NA,Native Hawaian or Pacific Islander,COPD,KENTUCKY
+KY,8.421981972,American Indian or Alaska Native,COPD,KENTUCKY
+KY,1.037562511,White,Diabetes,KENTUCKY
+KY,1.051263959,Black,Diabetes,KENTUCKY
+KY,0.165287798,Hispanic,Diabetes,KENTUCKY
+KY,0.433569294,Asian,Diabetes,KENTUCKY
+KY,NA,Native Hawaian or Pacific Islander,Diabetes,KENTUCKY
+KY,8.586381405,American Indian or Alaska Native,Diabetes,KENTUCKY
+KY,1.03527708,White,Kidney Disease,KENTUCKY
+KY,0.859255754,Black,Kidney Disease,KENTUCKY
+KY,0.195718691,Hispanic,Kidney Disease,KENTUCKY
+KY,NA,Asian,Kidney Disease,KENTUCKY
+KY,18.18479178,American Indian or Alaska Native,Kidney Disease,KENTUCKY
+KY,NA,Native Hawaian or Pacific Islander,Kidney Disease,KENTUCKY
+KY,1.032578138,White,Obesity,KENTUCKY
+KY,1.085745127,Black,Obesity,KENTUCKY
+KY,0.617635702,Hispanic,Obesity,KENTUCKY
+KY,0.246639411,Asian,Obesity,KENTUCKY
+KY,3.083668344,American Indian or Alaska Native,Obesity,KENTUCKY
+KY,0.003710841,Native Hawaian or Pacific Islander,Obesity,KENTUCKY
+KY,1.015600155,White,Smoking,KENTUCKY
+KY,1.02874453,Black,Smoking,KENTUCKY
+KY,0.614365912,Hispanic,Smoking,KENTUCKY
+KY,1.997847723,Asian,Smoking,KENTUCKY
+KY,NA,Native Hawaian or Pacific Islander,Smoking,KENTUCKY
+KY,9.182822496,American Indian or Alaska Native,Smoking,KENTUCKY
+LA,1.211395149,White,Senior,LOUISIANA
+LA,0.743479645,Black,Senior,LOUISIANA
+LA,0.493176558,Hispanic,Senior,LOUISIANA
+LA,0.518109277,Asian,Senior,LOUISIANA
+LA,0.86628845,American Indian or Alaska Native,Senior,LOUISIANA
+LA,0.713137975,Native Hawaian or Pacific Islander,Senior,LOUISIANA
+LA,0.948704067,White,Asthma,LOUISIANA
+LA,1.087115517,Black,Asthma,LOUISIANA
+LA,1.129865482,Hispanic,Asthma,LOUISIANA
+LA,0.902206845,Asian,Asthma,LOUISIANA
+LA,0.030710823,Native Hawaian or Pacific Islander,Asthma,LOUISIANA
+LA,2.920608672,American Indian or Alaska Native,Asthma,LOUISIANA
+LA,1.087730527,White,COPD,LOUISIANA
+LA,0.930277726,Black,COPD,LOUISIANA
+LA,0.807711723,Hispanic,COPD,LOUISIANA
+LA,NA,Asian,COPD,LOUISIANA
+LA,NA,Native Hawaian or Pacific Islander,COPD,LOUISIANA
+LA,1.476127641,American Indian or Alaska Native,COPD,LOUISIANA
+LA,0.95684342,White,Diabetes,LOUISIANA
+LA,1.23480622,Black,Diabetes,LOUISIANA
+LA,0.43285787,Hispanic,Diabetes,LOUISIANA
+LA,0.225927969,Asian,Diabetes,LOUISIANA
+LA,NA,Native Hawaian or Pacific Islander,Diabetes,LOUISIANA
+LA,0.91407767,American Indian or Alaska Native,Diabetes,LOUISIANA
+LA,0.970940306,White,Kidney Disease,LOUISIANA
+LA,1.11426221,Black,Kidney Disease,LOUISIANA
+LA,0.705537299,Hispanic,Kidney Disease,LOUISIANA
+LA,NA,Asian,Kidney Disease,LOUISIANA
+LA,2.794390562,American Indian or Alaska Native,Kidney Disease,LOUISIANA
+LA,NA,Native Hawaian or Pacific Islander,Kidney Disease,LOUISIANA
+LA,0.933797203,White,Obesity,LOUISIANA
+LA,1.18120428,Black,Obesity,LOUISIANA
+LA,0.808389414,Hispanic,Obesity,LOUISIANA
+LA,1.339011449,Asian,Obesity,LOUISIANA
+LA,2.61760685,American Indian or Alaska Native,Obesity,LOUISIANA
+LA,0.00294291,Native Hawaian or Pacific Islander,Obesity,LOUISIANA
+LA,1.153966321,White,Smoking,LOUISIANA
+LA,0.741524066,Black,Smoking,LOUISIANA
+LA,1.053911679,Hispanic,Smoking,LOUISIANA
+LA,0.669543397,Asian,Smoking,LOUISIANA
+LA,NA,Native Hawaian or Pacific Islander,Smoking,LOUISIANA
+LA,2.522476456,American Indian or Alaska Native,Smoking,LOUISIANA
+ME,1.045380496,White,Senior,MAINE
+ME,0.199732491,Black,Senior,MAINE
+ME,0.338531609,Hispanic,Senior,MAINE
+ME,0.461104878,Asian,Senior,MAINE
+ME,0.68535275,American Indian or Alaska Native,Senior,MAINE
+ME,0.513554432,Native Hawaian or Pacific Islander,Senior,MAINE
+ME,0.980294311,White,Asthma,MAINE
+ME,1.135380096,Black,Asthma,MAINE
+ME,1.309624056,Hispanic,Asthma,MAINE
+ME,1.286007303,Asian,Asthma,MAINE
+ME,0.24787658,Native Hawaian or Pacific Islander,Asthma,MAINE
+ME,3.707749999,American Indian or Alaska Native,Asthma,MAINE
+ME,1.015591669,White,COPD,MAINE
+ME,0.058595215,Black,COPD,MAINE
+ME,0.544437929,Hispanic,COPD,MAINE
+ME,0.255550657,Asian,COPD,MAINE
+ME,NA,Native Hawaian or Pacific Islander,COPD,MAINE
+ME,4.503388464,American Indian or Alaska Native,COPD,MAINE
+ME,1.018727534,White,Diabetes,MAINE
+ME,0.186671074,Black,Diabetes,MAINE
+ME,0.670430231,Hispanic,Diabetes,MAINE
+ME,0.030033527,Asian,Diabetes,MAINE
+ME,0.022766655,Native Hawaian or Pacific Islander,Diabetes,MAINE
+ME,3.928353728,American Indian or Alaska Native,Diabetes,MAINE
+ME,1.0581435,White,Kidney Disease,MAINE
+ME,0.075223173,Black,Kidney Disease,MAINE
+ME,0.092675489,Hispanic,Kidney Disease,MAINE
+ME,NA,Asian,Kidney Disease,MAINE
+ME,0.697436186,American Indian or Alaska Native,Kidney Disease,MAINE
+ME,NA,Native Hawaian or Pacific Islander,Kidney Disease,MAINE
+ME,1.012379426,White,Obesity,MAINE
+ME,1.124398479,Black,Obesity,MAINE
+ME,0.56279424,Hispanic,Obesity,MAINE
+ME,0.625562068,Asian,Obesity,MAINE
+ME,2.353557796,American Indian or Alaska Native,Obesity,MAINE
+ME,0.148537171,Native Hawaian or Pacific Islander,Obesity,MAINE
+ME,1.002122569,White,Smoking,MAINE
+ME,0.289607027,Black,Smoking,MAINE
+ME,1.312635085,Hispanic,Smoking,MAINE
+ME,1.135024966,Asian,Smoking,MAINE
+ME,0.241610264,Native Hawaian or Pacific Islander,Smoking,MAINE
+ME,2.673739687,American Indian or Alaska Native,Smoking,MAINE
+MD,1.310242537,White,Senior,MARYLAND
+MD,0.794167036,Black,Senior,MARYLAND
+MD,0.305186514,Hispanic,Senior,MARYLAND
+MD,0.980681702,Asian,Senior,MARYLAND
+MD,1.230007978,American Indian or Alaska Native,Senior,MARYLAND
+MD,0.777375687,Native Hawaian or Pacific Islander,Senior,MARYLAND
+MD,0.98336621,White,Asthma,MARYLAND
+MD,1.175987826,Black,Asthma,MARYLAND
+MD,0.89831304,Hispanic,Asthma,MARYLAND
+MD,2.129314793,Asian,Asthma,MARYLAND
+MD,0.047862248,Native Hawaian or Pacific Islander,Asthma,MARYLAND
+MD,2.394788518,American Indian or Alaska Native,Asthma,MARYLAND
+MD,1.267211336,White,COPD,MARYLAND
+MD,0.879621096,Black,COPD,MARYLAND
+MD,0.414067369,Hispanic,COPD,MARYLAND
+MD,1.027790017,Asian,COPD,MARYLAND
+MD,0.005097789,Native Hawaian or Pacific Islander,COPD,MARYLAND
+MD,3.532762078,American Indian or Alaska Native,COPD,MARYLAND
+MD,0.930706005,White,Diabetes,MARYLAND
+MD,1.243470083,Black,Diabetes,MARYLAND
+MD,0.632449108,Hispanic,Diabetes,MARYLAND
+MD,4.60126042,Asian,Diabetes,MARYLAND
+MD,0.023782854,Native Hawaian or Pacific Islander,Diabetes,MARYLAND
+MD,2.713491801,American Indian or Alaska Native,Diabetes,MARYLAND
+MD,1.003991267,White,Kidney Disease,MARYLAND
+MD,1.148041582,Black,Kidney Disease,MARYLAND
+MD,0.661930967,Hispanic,Kidney Disease,MARYLAND
+MD,3.745428593,Asian,Kidney Disease,MARYLAND
+MD,1.289959027,American Indian or Alaska Native,Kidney Disease,MARYLAND
+MD,NA,Native Hawaian or Pacific Islander,Kidney Disease,MARYLAND
+MD,0.979566625,White,Obesity,MARYLAND
+MD,1.238218882,Black,Obesity,MARYLAND
+MD,0.846783098,Hispanic,Obesity,MARYLAND
+MD,1.716276404,Asian,Obesity,MARYLAND
+MD,2.220419724,American Indian or Alaska Native,Obesity,MARYLAND
+MD,0.024805615,Native Hawaian or Pacific Islander,Obesity,MARYLAND
+MD,1.092935951,White,Smoking,MARYLAND
+MD,1.076134175,Black,Smoking,MARYLAND
+MD,0.506493897,Hispanic,Smoking,MARYLAND
+MD,2.736187759,Asian,Smoking,MARYLAND
+MD,0.009283198,Native Hawaian or Pacific Islander,Smoking,MARYLAND
+MD,2.350648023,American Indian or Alaska Native,Smoking,MARYLAND
+MA,1.207521309,White,Senior,MASSACHUSETTS
+MA,0.608584393,Black,Senior,MASSACHUSETTS
+MA,0.353484679,Hispanic,Senior,MASSACHUSETTS
+MA,0.698842886,Asian,Senior,MASSACHUSETTS
+MA,0.674111291,American Indian or Alaska Native,Senior,MASSACHUSETTS
+MA,0.446517942,Native Hawaian or Pacific Islander,Senior,MASSACHUSETTS
+MA,1.056667774,White,Asthma,MASSACHUSETTS
+MA,0.732889223,Black,Asthma,MASSACHUSETTS
+MA,1.044650912,Hispanic,Asthma,MASSACHUSETTS
+MA,1.371943451,Asian,Asthma,MASSACHUSETTS
+MA,0.013372642,Native Hawaian or Pacific Islander,Asthma,MASSACHUSETTS
+MA,5.048868666,American Indian or Alaska Native,Asthma,MASSACHUSETTS
+MA,1.088752563,White,COPD,MASSACHUSETTS
+MA,0.632474041,Black,COPD,MASSACHUSETTS
+MA,0.852193011,Hispanic,COPD,MASSACHUSETTS
+MA,1.025614869,Asian,COPD,MASSACHUSETTS
+MA,NA,Native Hawaian or Pacific Islander,COPD,MASSACHUSETTS
+MA,10.54912633,American Indian or Alaska Native,COPD,MASSACHUSETTS
+MA,0.958251995,White,Diabetes,MASSACHUSETTS
+MA,1.120600693,Black,Diabetes,MASSACHUSETTS
+MA,1.394988988,Hispanic,Diabetes,MASSACHUSETTS
+MA,1.644446718,Asian,Diabetes,MASSACHUSETTS
+MA,0.083938592,Native Hawaian or Pacific Islander,Diabetes,MASSACHUSETTS
+MA,4.78951278,American Indian or Alaska Native,Diabetes,MASSACHUSETTS
+MA,0.941075722,White,Kidney Disease,MASSACHUSETTS
+MA,0.938447043,Black,Kidney Disease,MASSACHUSETTS
+MA,1.415818179,Hispanic,Kidney Disease,MASSACHUSETTS
+MA,2.9330237,Asian,Kidney Disease,MASSACHUSETTS
+MA,4.157487585,American Indian or Alaska Native,Kidney Disease,MASSACHUSETTS
+MA,NA,Native Hawaian or Pacific Islander,Kidney Disease,MASSACHUSETTS
+MA,1.068444014,White,Obesity,MASSACHUSETTS
+MA,0.973207341,Black,Obesity,MASSACHUSETTS
+MA,0.988837279,Hispanic,Obesity,MASSACHUSETTS
+MA,0.646755236,Asian,Obesity,MASSACHUSETTS
+MA,2.105391659,American Indian or Alaska Native,Obesity,MASSACHUSETTS
+MA,0.034141898,Native Hawaian or Pacific Islander,Obesity,MASSACHUSETTS
+MA,1.081963984,White,Smoking,MASSACHUSETTS
+MA,0.763432856,Black,Smoking,MASSACHUSETTS
+MA,0.931520802,Hispanic,Smoking,MASSACHUSETTS
+MA,0.867929753,Asian,Smoking,MASSACHUSETTS
+MA,0.055795439,Native Hawaian or Pacific Islander,Smoking,MASSACHUSETTS
+MA,5.603840768,American Indian or Alaska Native,Smoking,MASSACHUSETTS
+MI,1.138560946,White,Senior,MICHIGAN
+MI,0.725283671,Black,Senior,MICHIGAN
+MI,0.330877464,Hispanic,Senior,MICHIGAN
+MI,0.60100262,Asian,Senior,MICHIGAN
+MI,0.656721881,American Indian or Alaska Native,Senior,MICHIGAN
+MI,0.516444767,Native Hawaian or Pacific Islander,Senior,MICHIGAN
+MI,0.975100849,White,Asthma,MICHIGAN
+MI,1.298447526,Black,Asthma,MICHIGAN
+MI,0.846308534,Hispanic,Asthma,MICHIGAN
+MI,1.842259661,Asian,Asthma,MICHIGAN
+MI,NA,Native Hawaian or Pacific Islander,Asthma,MICHIGAN
+MI,2.467578799,American Indian or Alaska Native,Asthma,MICHIGAN
+MI,1.025498472,White,COPD,MICHIGAN
+MI,1.072246274,Black,COPD,MICHIGAN
+MI,0.66409741,Hispanic,COPD,MICHIGAN
+MI,0.995906115,Asian,COPD,MICHIGAN
+MI,0.04454183,Native Hawaian or Pacific Islander,COPD,MICHIGAN
+MI,5.002178971,American Indian or Alaska Native,COPD,MICHIGAN
+MI,0.994605135,White,Diabetes,MICHIGAN
+MI,1.266498088,Black,Diabetes,MICHIGAN
+MI,0.769808696,Hispanic,Diabetes,MICHIGAN
+MI,1.395054437,Asian,Diabetes,MICHIGAN
+MI,NA,Native Hawaian or Pacific Islander,Diabetes,MICHIGAN
+MI,3.864139908,American Indian or Alaska Native,Diabetes,MICHIGAN
+MI,1.029765172,White,Kidney Disease,MICHIGAN
+MI,1.395464404,Black,Kidney Disease,MICHIGAN
+MI,0.332863139,Hispanic,Kidney Disease,MICHIGAN
+MI,NA,Asian,Kidney Disease,MICHIGAN
+MI,1.823391429,American Indian or Alaska Native,Kidney Disease,MICHIGAN
+MI,NA,Native Hawaian or Pacific Islander,Kidney Disease,MICHIGAN
+MI,1.020583061,White,Obesity,MICHIGAN
+MI,1.173611556,Black,Obesity,MICHIGAN
+MI,0.828981924,Hispanic,Obesity,MICHIGAN
+MI,0.744619889,Asian,Obesity,MICHIGAN
+MI,1.898226179,American Indian or Alaska Native,Obesity,MICHIGAN
+MI,NA,Native Hawaian or Pacific Islander,Obesity,MICHIGAN
+MI,0.976646791,White,Smoking,MICHIGAN
+MI,1.13991659,Black,Smoking,MICHIGAN
+MI,1.092380817,Hispanic,Smoking,MICHIGAN
+MI,2.033299648,Asian,Smoking,MICHIGAN
+MI,NA,Native Hawaian or Pacific Islander,Smoking,MICHIGAN
+MI,4.135298698,American Indian or Alaska Native,Smoking,MICHIGAN
+MN,1.173983147,White,Senior,MINNESOTA
+MN,0.320084453,Black,Senior,MINNESOTA
+MN,0.190745839,Hispanic,Senior,MINNESOTA
+MN,0.65479006,Asian,Senior,MINNESOTA
+MN,0.498178914,American Indian or Alaska Native,Senior,MINNESOTA
+MN,0.312359573,Native Hawaian or Pacific Islander,Senior,MINNESOTA
+MN,1.011400676,White,Asthma,MINNESOTA
+MN,1.323925892,Black,Asthma,MINNESOTA
+MN,0.559532004,Hispanic,Asthma,MINNESOTA
+MN,5.377935977,Asian,Asthma,MINNESOTA
+MN,0.046231807,Native Hawaian or Pacific Islander,Asthma,MINNESOTA
+MN,2.536432489,American Indian or Alaska Native,Asthma,MINNESOTA
+MN,1.054973646,White,COPD,MINNESOTA
+MN,0.926823477,Black,COPD,MINNESOTA
+MN,0.495809637,Hispanic,COPD,MINNESOTA
+MN,2.09955842,Asian,COPD,MINNESOTA
+MN,0.023342915,Native Hawaian or Pacific Islander,COPD,MINNESOTA
+MN,4.282813818,American Indian or Alaska Native,COPD,MINNESOTA
+MN,1.00892334,White,Diabetes,MINNESOTA
+MN,1.075206341,Black,Diabetes,MINNESOTA
+MN,0.904789051,Hispanic,Diabetes,MINNESOTA
+MN,5.833012703,Asian,Diabetes,MINNESOTA
+MN,0.023313099,Native Hawaian or Pacific Islander,Diabetes,MINNESOTA
+MN,2.887243249,American Indian or Alaska Native,Diabetes,MINNESOTA
+MN,1.005478132,White,Kidney Disease,MINNESOTA
+MN,1.354133863,Black,Kidney Disease,MINNESOTA
+MN,0.745348059,Hispanic,Kidney Disease,MINNESOTA
+MN,4.475807278,Asian,Kidney Disease,MINNESOTA
+MN,2.656142671,American Indian or Alaska Native,Kidney Disease,MINNESOTA
+MN,NA,Native Hawaian or Pacific Islander,Kidney Disease,MINNESOTA
+MN,1.056265337,White,Obesity,MINNESOTA
+MN,0.919475293,Black,Obesity,MINNESOTA
+MN,0.654553882,Hispanic,Obesity,MINNESOTA
+MN,4.752713054,Asian,Obesity,MINNESOTA
+MN,1.725642447,American Indian or Alaska Native,Obesity,MINNESOTA
+MN,0.033012291,Native Hawaian or Pacific Islander,Obesity,MINNESOTA
+MN,1.003725432,White,Smoking,MINNESOTA
+MN,1.208945944,Black,Smoking,MINNESOTA
+MN,0.726909254,Hispanic,Smoking,MINNESOTA
+MN,4.856660537,Asian,Smoking,MINNESOTA
+MN,0.035924484,Native Hawaian or Pacific Islander,Smoking,MINNESOTA
+MN,3.310665641,American Indian or Alaska Native,Smoking,MINNESOTA
+MS,1.269743223,White,Senior,MISSISSIPPI
+MS,0.681771209,Black,Senior,MISSISSIPPI
+MS,0.313092929,Hispanic,Senior,MISSISSIPPI
+MS,1.113180289,Asian,Senior,MISSISSIPPI
+MS,0.426164443,American Indian or Alaska Native,Senior,MISSISSIPPI
+MS,0.541285017,Native Hawaian or Pacific Islander,Senior,MISSISSIPPI
+MS,1.023507188,White,Asthma,MISSISSIPPI
+MS,0.98958819,Black,Asthma,MISSISSIPPI
+MS,0.279628706,Hispanic,Asthma,MISSISSIPPI
+MS,0.522537544,Asian,Asthma,MISSISSIPPI
+MS,0.33229762,Native Hawaian or Pacific Islander,Asthma,MISSISSIPPI
+MS,3.498884208,American Indian or Alaska Native,Asthma,MISSISSIPPI
+MS,1.141247435,White,COPD,MISSISSIPPI
+MS,0.819067451,Black,COPD,MISSISSIPPI
+MS,0.173805502,Hispanic,COPD,MISSISSIPPI
+MS,0.821368769,Asian,COPD,MISSISSIPPI
+MS,0.216647474,Native Hawaian or Pacific Islander,COPD,MISSISSIPPI
+MS,5.073095951,American Indian or Alaska Native,COPD,MISSISSIPPI
+MS,0.981814724,White,Diabetes,MISSISSIPPI
+MS,1.068260081,Black,Diabetes,MISSISSIPPI
+MS,0.296247263,Hispanic,Diabetes,MISSISSIPPI
+MS,0.746700661,Asian,Diabetes,MISSISSIPPI
+MS,0.07039617,Native Hawaian or Pacific Islander,Diabetes,MISSISSIPPI
+MS,2.511020842,American Indian or Alaska Native,Diabetes,MISSISSIPPI
+MS,1.004277754,White,Kidney Disease,MISSISSIPPI
+MS,1.01252791,Black,Kidney Disease,MISSISSIPPI
+MS,NA,Hispanic,Kidney Disease,MISSISSIPPI
+MS,NA,Asian,Kidney Disease,MISSISSIPPI
+MS,5.01195301,American Indian or Alaska Native,Kidney Disease,MISSISSIPPI
+MS,NA,Native Hawaian or Pacific Islander,Kidney Disease,MISSISSIPPI
+MS,0.965521983,White,Obesity,MISSISSIPPI
+MS,1.095239508,Black,Obesity,MISSISSIPPI
+MS,0.41032186,Hispanic,Obesity,MISSISSIPPI
+MS,0.105446249,Asian,Obesity,MISSISSIPPI
+MS,1.896728196,American Indian or Alaska Native,Obesity,MISSISSIPPI
+MS,0.163658512,Native Hawaian or Pacific Islander,Obesity,MISSISSIPPI
+MS,1.094291925,White,Smoking,MISSISSIPPI
+MS,0.861947618,Black,Smoking,MISSISSIPPI
+MS,0.225891684,Hispanic,Smoking,MISSISSIPPI
+MS,0.203560598,Asian,Smoking,MISSISSIPPI
+MS,0.381898271,Native Hawaian or Pacific Islander,Smoking,MISSISSIPPI
+MS,3.730690405,American Indian or Alaska Native,Smoking,MISSISSIPPI
+MO,1.116686079,White,Senior,MISSOURI
+MO,0.673346378,Black,Senior,MISSOURI
+MO,0.325907804,Hispanic,Senior,MISSOURI
+MO,0.513713626,Asian,Senior,MISSOURI
+MO,0.800723677,American Indian or Alaska Native,Senior,MISSOURI
+MO,0.468365132,Native Hawaian or Pacific Islander,Senior,MISSOURI
+MO,1.002488545,White,Asthma,MISSOURI
+MO,1.182279132,Black,Asthma,MISSOURI
+MO,0.620869317,Hispanic,Asthma,MISSOURI
+MO,0.514174765,Asian,Asthma,MISSOURI
+MO,0.323208459,Native Hawaian or Pacific Islander,Asthma,MISSOURI
+MO,4.213597509,American Indian or Alaska Native,Asthma,MISSOURI
+MO,1.056696297,White,COPD,MISSOURI
+MO,0.777016342,Black,COPD,MISSOURI
+MO,0.492911254,Hispanic,COPD,MISSOURI
+MO,1.121611425,Asian,COPD,MISSOURI
+MO,0.261789746,Native Hawaian or Pacific Islander,COPD,MISSOURI
+MO,4.769524781,American Indian or Alaska Native,COPD,MISSOURI
+MO,0.964551972,White,Diabetes,MISSOURI
+MO,1.183620717,Black,Diabetes,MISSOURI
+MO,1.235089328,Hispanic,Diabetes,MISSOURI
+MO,0.846172404,Asian,Diabetes,MISSOURI
+MO,0.058871716,Native Hawaian or Pacific Islander,Diabetes,MISSOURI
+MO,4.394501487,American Indian or Alaska Native,Diabetes,MISSOURI
+MO,0.9688135,White,Kidney Disease,MISSOURI
+MO,1.149758656,Black,Kidney Disease,MISSOURI
+MO,1.399492498,Hispanic,Kidney Disease,MISSOURI
+MO,NA,Asian,Kidney Disease,MISSOURI
+MO,0.816516648,American Indian or Alaska Native,Kidney Disease,MISSOURI
+MO,0.713971349,Native Hawaian or Pacific Islander,Kidney Disease,MISSOURI
+MO,0.969019515,White,Obesity,MISSOURI
+MO,1.237836117,Black,Obesity,MISSOURI
+MO,1.208296608,Hispanic,Obesity,MISSOURI
+MO,0.296760586,Asian,Obesity,MISSOURI
+MO,3.756628619,American Indian or Alaska Native,Obesity,MISSOURI
+MO,0.019555432,Native Hawaian or Pacific Islander,Obesity,MISSOURI
+MO,0.997338175,White,Smoking,MISSOURI
+MO,1.079034631,Black,Smoking,MISSOURI
+MO,0.784014764,Hispanic,Smoking,MISSOURI
+MO,0.834069029,Asian,Smoking,MISSOURI
+MO,0.148706562,Native Hawaian or Pacific Islander,Smoking,MISSOURI
+MO,4.179812011,American Indian or Alaska Native,Smoking,MISSOURI
+MT,1.095201671,White,Senior,MONTANA
+MT,0.265914487,Black,Senior,MONTANA
+MT,0.325982655,Hispanic,Senior,MONTANA
+MT,0.86916771,Asian,Senior,MONTANA
+MT,0.434377785,American Indian or Alaska Native,Senior,MONTANA
+MT,0.372502712,Native Hawaian or Pacific Islander,Senior,MONTANA
+MT,0.988730981,White,Asthma,MONTANA
+MT,0.844009694,Black,Asthma,MONTANA
+MT,0.870326484,Hispanic,Asthma,MONTANA
+MT,3.825290014,Asian,Asthma,MONTANA
+MT,0.280978419,Native Hawaian or Pacific Islander,Asthma,MONTANA
+MT,1.144247335,American Indian or Alaska Native,Asthma,MONTANA
+MT,1.019356568,White,COPD,MONTANA
+MT,NA,Black,COPD,MONTANA
+MT,0.923042338,Hispanic,COPD,MONTANA
+MT,NA,Asian,COPD,MONTANA
+MT,NA,Native Hawaian or Pacific Islander,COPD,MONTANA
+MT,0.976302577,American Indian or Alaska Native,COPD,MONTANA
+MT,0.97732661,White,Diabetes,MONTANA
+MT,1.471887978,Black,Diabetes,MONTANA
+MT,0.411545395,Hispanic,Diabetes,MONTANA
+MT,2.31020845,Asian,Diabetes,MONTANA
+MT,NA,Native Hawaian or Pacific Islander,Diabetes,MONTANA
+MT,1.660866677,American Indian or Alaska Native,Diabetes,MONTANA
+MT,0.972829353,White,Kidney Disease,MONTANA
+MT,NA,Black,Kidney Disease,MONTANA
+MT,0.169092175,Hispanic,Kidney Disease,MONTANA
+MT,NA,Asian,Kidney Disease,MONTANA
+MT,1.941053126,American Indian or Alaska Native,Kidney Disease,MONTANA
+MT,1.662181177,Native Hawaian or Pacific Islander,Kidney Disease,MONTANA
+MT,0.9941849,White,Obesity,MONTANA
+MT,1.422966218,Black,Obesity,MONTANA
+MT,0.69932887,Hispanic,Obesity,MONTANA
+MT,1.872560904,Asian,Obesity,MONTANA
+MT,1.293624833,American Indian or Alaska Native,Obesity,MONTANA
+MT,0.557260855,Native Hawaian or Pacific Islander,Obesity,MONTANA
+MT,0.937544903,White,Smoking,MONTANA
+MT,1.307289036,Black,Smoking,MONTANA
+MT,0.916480259,Hispanic,Smoking,MONTANA
+MT,2.793537505,Asian,Smoking,MONTANA
+MT,0.540641391,Native Hawaian or Pacific Islander,Smoking,MONTANA
+MT,1.763536587,American Indian or Alaska Native,Smoking,MONTANA
+NE,1.178776438,White,Senior,NEBRASKA
+NE,0.471204131,Black,Senior,NEBRASKA
+NE,0.243464221,Hispanic,Senior,NEBRASKA
+NE,0.575637344,Asian,Senior,NEBRASKA
+NE,0.43582436,American Indian or Alaska Native,Senior,NEBRASKA
+NE,0.316732444,Native Hawaian or Pacific Islander,Senior,NEBRASKA
+NE,1.058493682,White,Asthma,NEBRASKA
+NE,1.110515257,Black,Asthma,NEBRASKA
+NE,0.480423832,Hispanic,Asthma,NEBRASKA
+NE,0.197168951,Asian,Asthma,NEBRASKA
+NE,0.292775283,Native Hawaian or Pacific Islander,Asthma,NEBRASKA
+NE,2.221954789,American Indian or Alaska Native,Asthma,NEBRASKA
+NE,1.098993282,White,COPD,NEBRASKA
+NE,0.670783645,Black,COPD,NEBRASKA
+NE,0.410812493,Hispanic,COPD,NEBRASKA
+NE,0.411948005,Asian,COPD,NEBRASKA
+NE,NA,Native Hawaian or Pacific Islander,COPD,NEBRASKA
+NE,3.054977081,American Indian or Alaska Native,COPD,NEBRASKA
+NE,1.018678006,White,Diabetes,NEBRASKA
+NE,1.282471767,Black,Diabetes,NEBRASKA
+NE,0.798888984,Hispanic,Diabetes,NEBRASKA
+NE,1.347376096,Asian,Diabetes,NEBRASKA
+NE,NA,Native Hawaian or Pacific Islander,Diabetes,NEBRASKA
+NE,2.875973229,American Indian or Alaska Native,Diabetes,NEBRASKA
+NE,1.082257049,White,Kidney Disease,NEBRASKA
+NE,0.895157778,Black,Kidney Disease,NEBRASKA
+NE,0.480710125,Hispanic,Kidney Disease,NEBRASKA
+NE,NA,Asian,Kidney Disease,NEBRASKA
+NE,3.158869988,American Indian or Alaska Native,Kidney Disease,NEBRASKA
+NE,0.59271071,Native Hawaian or Pacific Islander,Kidney Disease,NEBRASKA
+NE,1.047400728,White,Obesity,NEBRASKA
+NE,1.180818701,Black,Obesity,NEBRASKA
+NE,0.74239044,Hispanic,Obesity,NEBRASKA
+NE,0.833634211,Asian,Obesity,NEBRASKA
+NE,1.652919171,American Indian or Alaska Native,Obesity,NEBRASKA
+NE,0.039682587,Native Hawaian or Pacific Islander,Obesity,NEBRASKA
+NE,0.998838279,White,Smoking,NEBRASKA
+NE,1.750491511,Black,Smoking,NEBRASKA
+NE,0.635934571,Hispanic,Smoking,NEBRASKA
+NE,0.592461949,Asian,Smoking,NEBRASKA
+NE,0.103936442,Native Hawaian or Pacific Islander,Smoking,NEBRASKA
+NE,2.846014294,American Indian or Alaska Native,Smoking,NEBRASKA
+NV,1.456093536,White,Senior,NEVADA
+NV,0.706858949,Black,Senior,NEVADA
+NV,0.361186476,Hispanic,Senior,NEVADA
+NV,1.564664295,Asian,Senior,NEVADA
+NV,0.840775107,American Indian or Alaska Native,Senior,NEVADA
+NV,0.936455626,Native Hawaian or Pacific Islander,Senior,NEVADA
+NV,0.975745077,White,Asthma,NEVADA
+NV,1.239260997,Black,Asthma,NEVADA
+NV,0.785365541,Hispanic,Asthma,NEVADA
+NV,7.652524584,Asian,Asthma,NEVADA
+NV,0.007151983,Native Hawaian or Pacific Islander,Asthma,NEVADA
+NV,1.274107996,American Indian or Alaska Native,Asthma,NEVADA
+NV,1.389727685,White,COPD,NEVADA
+NV,0.924812015,Black,COPD,NEVADA
+NV,0.461371349,Hispanic,COPD,NEVADA
+NV,2.387013981,Asian,COPD,NEVADA
+NV,NA,Native Hawaian or Pacific Islander,COPD,NEVADA
+NV,1.42678231,American Indian or Alaska Native,COPD,NEVADA
+NV,0.941705712,White,Diabetes,NEVADA
+NV,1.452872876,Black,Diabetes,NEVADA
+NV,0.953661525,Hispanic,Diabetes,NEVADA
+NV,6.020105296,Asian,Diabetes,NEVADA
+NV,0.111001645,Native Hawaian or Pacific Islander,Diabetes,NEVADA
+NV,0.771019316,American Indian or Alaska Native,Diabetes,NEVADA
+NV,0.969293497,White,Kidney Disease,NEVADA
+NV,1.035869736,Black,Kidney Disease,NEVADA
+NV,0.904427804,Hispanic,Kidney Disease,NEVADA
+NV,4.185675927,Asian,Kidney Disease,NEVADA
+NV,1.278847843,American Indian or Alaska Native,Kidney Disease,NEVADA
+NV,NA,Native Hawaian or Pacific Islander,Kidney Disease,NEVADA
+NV,1.013908086,White,Obesity,NEVADA
+NV,1.486272881,Black,Obesity,NEVADA
+NV,0.99510338,Hispanic,Obesity,NEVADA
+NV,2.504872845,Asian,Obesity,NEVADA
+NV,1.250832741,American Indian or Alaska Native,Obesity,NEVADA
+NV,0.147950888,Native Hawaian or Pacific Islander,Obesity,NEVADA
+NV,1.118554864,White,Smoking,NEVADA
+NV,1.389275642,Black,Smoking,NEVADA
+NV,0.640210461,Hispanic,Smoking,NEVADA
+NV,3.645849196,Asian,Smoking,NEVADA
+NV,0.27437209,Native Hawaian or Pacific Islander,Smoking,NEVADA
+NV,3.298949055,American Indian or Alaska Native,Smoking,NEVADA
+NH,1.069202461,White,Senior,NEW HAMPSHIRE
+NH,0.391644454,Black,Senior,NEW HAMPSHIRE
+NH,0.306786885,Hispanic,Senior,NEW HAMPSHIRE
+NH,0.618564435,Asian,Senior,NEW HAMPSHIRE
+NH,0.562771851,American Indian or Alaska Native,Senior,NEW HAMPSHIRE
+NH,0.251996899,Native Hawaian or Pacific Islander,Senior,NEW HAMPSHIRE
+NH,1.007750004,White,Asthma,NEW HAMPSHIRE
+NH,0.72642372,Black,Asthma,NEW HAMPSHIRE
+NH,1.099355815,Hispanic,Asthma,NEW HAMPSHIRE
+NH,0.802109238,Asian,Asthma,NEW HAMPSHIRE
+NH,0.067472088,Native Hawaian or Pacific Islander,Asthma,NEW HAMPSHIRE
+NH,10.17522631,American Indian or Alaska Native,Asthma,NEW HAMPSHIRE
+NH,1.020750709,White,COPD,NEW HAMPSHIRE
+NH,1.129969826,Black,COPD,NEW HAMPSHIRE
+NH,0.154153907,Hispanic,COPD,NEW HAMPSHIRE
+NH,NA,Asian,COPD,NEW HAMPSHIRE
+NH,NA,Native Hawaian or Pacific Islander,COPD,NEW HAMPSHIRE
+NH,13.78224722,American Indian or Alaska Native,COPD,NEW HAMPSHIRE
+NH,1.033088318,White,Diabetes,NEW HAMPSHIRE
+NH,0.480206229,Black,Diabetes,NEW HAMPSHIRE
+NH,0.688552923,Hispanic,Diabetes,NEW HAMPSHIRE
+NH,1.863506638,Asian,Diabetes,NEW HAMPSHIRE
+NH,0.018938246,Native Hawaian or Pacific Islander,Diabetes,NEW HAMPSHIRE
+NH,2.600854875,American Indian or Alaska Native,Diabetes,NEW HAMPSHIRE
+NH,1.086039023,White,Kidney Disease,NEW HAMPSHIRE
+NH,NA,Black,Kidney Disease,NEW HAMPSHIRE
+NH,NA,Hispanic,Kidney Disease,NEW HAMPSHIRE
+NH,NA,Asian,Kidney Disease,NEW HAMPSHIRE
+NH,3.296445459,American Indian or Alaska Native,Kidney Disease,NEW HAMPSHIRE
+NH,NA,Native Hawaian or Pacific Islander,Kidney Disease,NEW HAMPSHIRE
+NH,1.03195276,White,Obesity,NEW HAMPSHIRE
+NH,0.636781593,Black,Obesity,NEW HAMPSHIRE
+NH,0.558975306,Hispanic,Obesity,NEW HAMPSHIRE
+NH,1.409309444,Asian,Obesity,NEW HAMPSHIRE
+NH,5.423819985,American Indian or Alaska Native,Obesity,NEW HAMPSHIRE
+NH,0.046137481,Native Hawaian or Pacific Islander,Obesity,NEW HAMPSHIRE
+NH,1.012086431,White,Smoking,NEW HAMPSHIRE
+NH,0.383915867,Black,Smoking,NEW HAMPSHIRE
+NH,0.6595201,Hispanic,Smoking,NEW HAMPSHIRE
+NH,1.810910658,Asian,Smoking,NEW HAMPSHIRE
+NH,0.050469595,Native Hawaian or Pacific Islander,Smoking,NEW HAMPSHIRE
+NH,5.611068772,American Indian or Alaska Native,Smoking,NEW HAMPSHIRE
+NJ,1.313888657,White,Senior,NEW JERSEY
+NJ,0.762982764,Black,Senior,NEW JERSEY
+NJ,0.481226768,Hispanic,Senior,NEW JERSEY
+NJ,0.842385187,Asian,Senior,NEW JERSEY
+NJ,1.015334016,American Indian or Alaska Native,Senior,NEW JERSEY
+NJ,0.654526411,Native Hawaian or Pacific Islander,Senior,NEW JERSEY
+NJ,0.977599473,White,Asthma,NEW JERSEY
+NJ,1.522602975,Black,Asthma,NEW JERSEY
+NJ,0.983766396,Hispanic,Asthma,NEW JERSEY
+NJ,1.274754518,Asian,Asthma,NEW JERSEY
+NJ,NA,Native Hawaian or Pacific Islander,Asthma,NEW JERSEY
+NJ,14.80466393,American Indian or Alaska Native,Asthma,NEW JERSEY
+NJ,1.264479568,White,COPD,NEW JERSEY
+NJ,0.773411904,Black,COPD,NEW JERSEY
+NJ,0.583565514,Hispanic,COPD,NEW JERSEY
+NJ,1.756262209,Asian,COPD,NEW JERSEY
+NJ,NA,Native Hawaian or Pacific Islander,COPD,NEW JERSEY
+NJ,20.13447899,American Indian or Alaska Native,COPD,NEW JERSEY
+NJ,1.007575821,White,Diabetes,NEW JERSEY
+NJ,1.397396823,Black,Diabetes,NEW JERSEY
+NJ,0.866434027,Hispanic,Diabetes,NEW JERSEY
+NJ,3.306583159,Asian,Diabetes,NEW JERSEY
+NJ,NA,Native Hawaian or Pacific Islander,Diabetes,NEW JERSEY
+NJ,5.941422846,American Indian or Alaska Native,Diabetes,NEW JERSEY
+NJ,1.190152611,White,Kidney Disease,NEW JERSEY
+NJ,0.565492679,Black,Kidney Disease,NEW JERSEY
+NJ,1.323047911,Hispanic,Kidney Disease,NEW JERSEY
+NJ,NA,Asian,Kidney Disease,NEW JERSEY
+NJ,NA,American Indian or Alaska Native,Kidney Disease,NEW JERSEY
+NJ,NA,Native Hawaian or Pacific Islander,Kidney Disease,NEW JERSEY
+NJ,1.065601812,White,Obesity,NEW JERSEY
+NJ,1.288942739,Black,Obesity,NEW JERSEY
+NJ,0.860281485,Hispanic,Obesity,NEW JERSEY
+NJ,2.711486833,Asian,Obesity,NEW JERSEY
+NJ,9.706115594,American Indian or Alaska Native,Obesity,NEW JERSEY
+NJ,0.003673568,Native Hawaian or Pacific Islander,Obesity,NEW JERSEY
+NJ,1.118535093,White,Smoking,NEW JERSEY
+NJ,0.935058785,Black,Smoking,NEW JERSEY
+NJ,0.955147438,Hispanic,Smoking,NEW JERSEY
+NJ,3.158578096,Asian,Smoking,NEW JERSEY
+NJ,0.006593336,Native Hawaian or Pacific Islander,Smoking,NEW JERSEY
+NJ,1.063425949,American Indian or Alaska Native,Smoking,NEW JERSEY
+NM,1.562794403,White,Senior,NEW MEXICO
+NM,0.818589747,Black,Senior,NEW MEXICO
+NM,0.670903142,Hispanic,Senior,NEW MEXICO
+NM,1.045373789,Asian,Senior,NEW MEXICO
+NM,0.604549345,American Indian or Alaska Native,Senior,NEW MEXICO
+NM,0.542421605,Native Hawaian or Pacific Islander,Senior,NEW MEXICO
+NM,1.192312306,White,Asthma,NEW MEXICO
+NM,0.620670277,Black,Asthma,NEW MEXICO
+NM,0.87034739,Hispanic,Asthma,NEW MEXICO
+NM,2.3227763,Asian,Asthma,NEW MEXICO
+NM,NA,Native Hawaian or Pacific Islander,Asthma,NEW MEXICO
+NM,0.972751179,American Indian or Alaska Native,Asthma,NEW MEXICO
+NM,1.468756519,White,COPD,NEW MEXICO
+NM,0.601873326,Black,COPD,NEW MEXICO
+NM,0.76482772,Hispanic,COPD,NEW MEXICO
+NM,0.578778251,Asian,COPD,NEW MEXICO
+NM,0.398594467,Native Hawaian or Pacific Islander,COPD,NEW MEXICO
+NM,0.53945098,American Indian or Alaska Native,COPD,NEW MEXICO
+NM,0.824093136,White,Diabetes,NEW MEXICO
+NM,1.359817685,Black,Diabetes,NEW MEXICO
+NM,1.041978641,Hispanic,Diabetes,NEW MEXICO
+NM,3.074454829,Asian,Diabetes,NEW MEXICO
+NM,0.145870976,Native Hawaian or Pacific Islander,Diabetes,NEW MEXICO
+NM,1.568415528,American Indian or Alaska Native,Diabetes,NEW MEXICO
+NM,1.142893533,White,Kidney Disease,NEW MEXICO
+NM,1.985958085,Black,Kidney Disease,NEW MEXICO
+NM,0.826784329,Hispanic,Kidney Disease,NEW MEXICO
+NM,NA,Asian,Kidney Disease,NEW MEXICO
+NM,1.337244145,American Indian or Alaska Native,Kidney Disease,NEW MEXICO
+NM,NA,Native Hawaian or Pacific Islander,Kidney Disease,NEW MEXICO
+NM,0.882965758,White,Obesity,NEW MEXICO
+NM,0.679527575,Black,Obesity,NEW MEXICO
+NM,1.105019277,Hispanic,Obesity,NEW MEXICO
+NM,0.370506265,Asian,Obesity,NEW MEXICO
+NM,1.195269626,American Indian or Alaska Native,Obesity,NEW MEXICO
+NM,0.192098139,Native Hawaian or Pacific Islander,Obesity,NEW MEXICO
+NM,1.05845529,White,Smoking,NEW MEXICO
+NM,0.716024208,Black,Smoking,NEW MEXICO
+NM,0.970633116,Hispanic,Smoking,NEW MEXICO
+NM,1.026307521,Asian,Smoking,NEW MEXICO
+NM,0.225076619,Native Hawaian or Pacific Islander,Smoking,NEW MEXICO
+NM,1.031040579,American Indian or Alaska Native,Smoking,NEW MEXICO
+NY,1.254770741,White,Senior,NEW YORK
+NY,0.818381572,Black,Senior,NEW YORK
+NY,0.571324133,Hispanic,Senior,NEW YORK
+NY,0.882469111,Asian,Senior,NEW YORK
+NY,0.891037226,American Indian or Alaska Native,Senior,NEW YORK
+NY,0.651036372,Native Hawaian or Pacific Islander,Senior,NEW YORK
+NY,0.986611223,White,Asthma,NEW YORK
+NY,1.053351751,Black,Asthma,NEW YORK
+NY,1.1310352,Hispanic,Asthma,NEW YORK
+NY,1.61980839,Asian,Asthma,NEW YORK
+NY,0.033459626,Native Hawaian or Pacific Islander,Asthma,NEW YORK
+NY,0.751167024,American Indian or Alaska Native,Asthma,NEW YORK
+NY,1.158630906,White,COPD,NEW YORK
+NY,0.864935712,Black,COPD,NEW YORK
+NY,0.864548449,Hispanic,COPD,NEW YORK
+NY,1.032891477,Asian,COPD,NEW YORK
+NY,0.031011906,Native Hawaian or Pacific Islander,COPD,NEW YORK
+NY,1.208607098,American Indian or Alaska Native,COPD,NEW YORK
+NY,0.857212587,White,Diabetes,NEW YORK
+NY,1.315774706,Black,Diabetes,NEW YORK
+NY,0.962342197,Hispanic,Diabetes,NEW YORK
+NY,3.32684986,Asian,Diabetes,NEW YORK
+NY,0.082494359,Native Hawaian or Pacific Islander,Diabetes,NEW YORK
+NY,1.415349994,American Indian or Alaska Native,Diabetes,NEW YORK
+NY,0.896924761,White,Kidney Disease,NEW YORK
+NY,1.16846853,Black,Kidney Disease,NEW YORK
+NY,1.160548835,Hispanic,Kidney Disease,NEW YORK
+NY,2.461829099,Asian,Kidney Disease,NEW YORK
+NY,0.582261745,American Indian or Alaska Native,Kidney Disease,NEW YORK
+NY,0.003271533,Native Hawaian or Pacific Islander,Kidney Disease,NEW YORK
+NY,1.028968256,White,Obesity,NEW YORK
+NY,1.167146773,Black,Obesity,NEW YORK
+NY,1.033757662,Hispanic,Obesity,NEW YORK
+NY,1.062116837,Asian,Obesity,NEW YORK
+NY,0.970792656,American Indian or Alaska Native,Obesity,NEW YORK
+NY,0.063670002,Native Hawaian or Pacific Islander,Obesity,NEW YORK
+NY,1.072352131,White,Smoking,NEW YORK
+NY,1.075457553,Black,Smoking,NEW YORK
+NY,0.884721526,Hispanic,Smoking,NEW YORK
+NY,1.3330687,Asian,Smoking,NEW YORK
+NY,0.063274149,Native Hawaian or Pacific Islander,Smoking,NEW YORK
+NY,1.426880092,American Indian or Alaska Native,Smoking,NEW YORK
+NC,1.248393603,White,Senior,NORTH CAROLINA
+NC,0.765634287,Black,Senior,NORTH CAROLINA
+NC,0.203110044,Hispanic,Senior,NORTH CAROLINA
+NC,0.626102196,Asian,Senior,NORTH CAROLINA
+NC,0.810253126,American Indian or Alaska Native,Senior,NORTH CAROLINA
+NC,0.426690005,Native Hawaian or Pacific Islander,Senior,NORTH CAROLINA
+NC,1.017742262,White,Asthma,NORTH CAROLINA
+NC,1.094093082,Black,Asthma,NORTH CAROLINA
+NC,0.559898671,Hispanic,Asthma,NORTH CAROLINA
+NC,2.250319612,Asian,Asthma,NORTH CAROLINA
+NC,0.048484162,Native Hawaian or Pacific Islander,Asthma,NORTH CAROLINA
+NC,2.773368672,American Indian or Alaska Native,Asthma,NORTH CAROLINA
+NC,1.201998222,White,COPD,NORTH CAROLINA
+NC,0.743801736,Black,COPD,NORTH CAROLINA
+NC,0.232977979,Hispanic,COPD,NORTH CAROLINA
+NC,0.44751545,Asian,COPD,NORTH CAROLINA
+NC,NA,Native Hawaian or Pacific Islander,COPD,NORTH CAROLINA
+NC,3.037917172,American Indian or Alaska Native,COPD,NORTH CAROLINA
+NC,1.015349864,White,Diabetes,NORTH CAROLINA
+NC,1.26049126,Black,Diabetes,NORTH CAROLINA
+NC,0.526198837,Hispanic,Diabetes,NORTH CAROLINA
+NC,0.668689439,Asian,Diabetes,NORTH CAROLINA
+NC,0.033441003,Native Hawaian or Pacific Islander,Diabetes,NORTH CAROLINA
+NC,1.563250658,American Indian or Alaska Native,Diabetes,NORTH CAROLINA
+NC,0.961704254,White,Kidney Disease,NORTH CAROLINA
+NC,1.330000478,Black,Kidney Disease,NORTH CAROLINA
+NC,0.493788106,Hispanic,Kidney Disease,NORTH CAROLINA
+NC,1.141004222,Asian,Kidney Disease,NORTH CAROLINA
+NC,3.885195363,American Indian or Alaska Native,Kidney Disease,NORTH CAROLINA
+NC,NA,Native Hawaian or Pacific Islander,Kidney Disease,NORTH CAROLINA
+NC,0.952517025,White,Obesity,NORTH CAROLINA
+NC,1.337653844,Black,Obesity,NORTH CAROLINA
+NC,0.644354953,Hispanic,Obesity,NORTH CAROLINA
+NC,0.740424359,Asian,Obesity,NORTH CAROLINA
+NC,2.168338979,American Indian or Alaska Native,Obesity,NORTH CAROLINA
+NC,0.094472407,Native Hawaian or Pacific Islander,Obesity,NORTH CAROLINA
+NC,1.09521856,White,Smoking,NORTH CAROLINA
+NC,0.970853031,Black,Smoking,NORTH CAROLINA
+NC,0.508721329,Hispanic,Smoking,NORTH CAROLINA
+NC,0.714816672,Asian,Smoking,NORTH CAROLINA
+NC,NA,Native Hawaian or Pacific Islander,Smoking,NORTH CAROLINA
+NC,2.558730571,American Indian or Alaska Native,Smoking,NORTH CAROLINA
+ND,1.131006253,White,Senior,NORTH DAKOTA
+ND,0.091155691,Black,Senior,NORTH DAKOTA
+ND,0.188315341,Hispanic,Senior,NORTH DAKOTA
+ND,0.420867688,Asian,Senior,NORTH DAKOTA
+ND,0.374958928,American Indian or Alaska Native,Senior,NORTH DAKOTA
+ND,0.346708659,Native Hawaian or Pacific Islander,Senior,NORTH DAKOTA
+ND,0.989475678,White,Asthma,NORTH DAKOTA
+ND,0.845401588,Black,Asthma,NORTH DAKOTA
+ND,1.409923539,Hispanic,Asthma,NORTH DAKOTA
+ND,0.591921428,Asian,Asthma,NORTH DAKOTA
+ND,NA,Native Hawaian or Pacific Islander,Asthma,NORTH DAKOTA
+ND,1.203483384,American Indian or Alaska Native,Asthma,NORTH DAKOTA
+ND,1.035187481,White,COPD,NORTH DAKOTA
+ND,0.430438654,Black,COPD,NORTH DAKOTA
+ND,0.530152856,Hispanic,COPD,NORTH DAKOTA
+ND,NA,Asian,COPD,NORTH DAKOTA
+ND,NA,Native Hawaian or Pacific Islander,COPD,NORTH DAKOTA
+ND,1.567758933,American Indian or Alaska Native,COPD,NORTH DAKOTA
+ND,1.006406962,White,Diabetes,NORTH DAKOTA
+ND,0.727545588,Black,Diabetes,NORTH DAKOTA
+ND,0.205750463,Hispanic,Diabetes,NORTH DAKOTA
+ND,2.970962758,Asian,Diabetes,NORTH DAKOTA
+ND,NA,Native Hawaian or Pacific Islander,Diabetes,NORTH DAKOTA
+ND,1.989576991,American Indian or Alaska Native,Diabetes,NORTH DAKOTA
+ND,1.023212075,White,Kidney Disease,NORTH DAKOTA
+ND,NA,Black,Kidney Disease,NORTH DAKOTA
+ND,0.426046888,Hispanic,Kidney Disease,NORTH DAKOTA
+ND,NA,Asian,Kidney Disease,NORTH DAKOTA
+ND,1.926209006,American Indian or Alaska Native,Kidney Disease,NORTH DAKOTA
+ND,NA,Native Hawaian or Pacific Islander,Kidney Disease,NORTH DAKOTA
+ND,1.011238743,White,Obesity,NORTH DAKOTA
+ND,0.972997574,Black,Obesity,NORTH DAKOTA
+ND,1.130836584,Hispanic,Obesity,NORTH DAKOTA
+ND,1.15771194,Asian,Obesity,NORTH DAKOTA
+ND,1.100125019,American Indian or Alaska Native,Obesity,NORTH DAKOTA
+ND,0.113828436,Native Hawaian or Pacific Islander,Obesity,NORTH DAKOTA
+ND,0.927021621,White,Smoking,NORTH DAKOTA
+ND,1.138308529,Black,Smoking,NORTH DAKOTA
+ND,1.265693564,Hispanic,Smoking,NORTH DAKOTA
+ND,3.326103446,Asian,Smoking,NORTH DAKOTA
+ND,0.076140773,Native Hawaian or Pacific Islander,Smoking,NORTH DAKOTA
+ND,1.928888246,American Indian or Alaska Native,Smoking,NORTH DAKOTA
+OH,1.113653803,White,Senior,OHIO
+OH,0.712517211,Black,Senior,OHIO
+OH,0.330244095,Hispanic,Senior,OHIO
+OH,0.524839421,Asian,Senior,OHIO
+OH,0.757977951,American Indian or Alaska Native,Senior,OHIO
+OH,0.52992522,Native Hawaian or Pacific Islander,Senior,OHIO
+OH,0.969804438,White,Asthma,OHIO
+OH,1.155665673,Black,Asthma,OHIO
+OH,1.498215797,Hispanic,Asthma,OHIO
+OH,1.193114056,Asian,Asthma,OHIO
+OH,0.019575896,Native Hawaian or Pacific Islander,Asthma,OHIO
+OH,6.476478278,American Indian or Alaska Native,Asthma,OHIO
+OH,1.034441312,White,COPD,OHIO
+OH,0.822953209,Black,COPD,OHIO
+OH,1.211920534,Hispanic,COPD,OHIO
+OH,0.61397459,Asian,COPD,OHIO
+OH,NA,Native Hawaian or Pacific Islander,COPD,OHIO
+OH,8.791866486,American Indian or Alaska Native,COPD,OHIO
+OH,1.043465418,White,Diabetes,OHIO
+OH,1.036641742,Black,Diabetes,OHIO
+OH,0.641981966,Hispanic,Diabetes,OHIO
+OH,1.26604392,Asian,Diabetes,OHIO
+OH,NA,Native Hawaian or Pacific Islander,Diabetes,OHIO
+OH,1.700247044,American Indian or Alaska Native,Diabetes,OHIO
+OH,0.993306693,White,Kidney Disease,OHIO
+OH,1.052566321,Black,Kidney Disease,OHIO
+OH,1.712987906,Hispanic,Kidney Disease,OHIO
+OH,0.859094012,Asian,Kidney Disease,OHIO
+OH,2.491779373,American Indian or Alaska Native,Kidney Disease,OHIO
+OH,0.019176983,Native Hawaian or Pacific Islander,Kidney Disease,OHIO
+OH,1.036689939,White,Obesity,OHIO
+OH,1.022248237,Black,Obesity,OHIO
+OH,0.943155707,Hispanic,Obesity,OHIO
+OH,0.606309117,Asian,Obesity,OHIO
+OH,1.122978142,American Indian or Alaska Native,Obesity,OHIO
+OH,0.029735262,Native Hawaian or Pacific Islander,Obesity,OHIO
+OH,1.003594232,White,Smoking,OHIO
+OH,1.106967587,Black,Smoking,OHIO
+OH,0.733981116,Hispanic,Smoking,OHIO
+OH,2.09676068,Asian,Smoking,OHIO
+OH,0.046903935,Native Hawaian or Pacific Islander,Smoking,OHIO
+OH,5.967291407,American Indian or Alaska Native,Smoking,OHIO
+OK,1.270510403,White,Senior,OKLAHOMA
+OK,0.645826664,Black,Senior,OKLAHOMA
+OK,0.220156965,Hispanic,Senior,OKLAHOMA
+OK,0.696977509,Asian,Senior,OKLAHOMA
+OK,0.664538963,American Indian or Alaska Native,Senior,OKLAHOMA
+OK,0.475930748,Native Hawaian or Pacific Islander,Senior,OKLAHOMA
+OK,1.035738538,White,Asthma,OKLAHOMA
+OK,1.213340952,Black,Asthma,OKLAHOMA
+OK,0.739623126,Hispanic,Asthma,OKLAHOMA
+OK,3.240558656,Asian,Asthma,OKLAHOMA
+OK,NA,Native Hawaian or Pacific Islander,Asthma,OKLAHOMA
+OK,1.267731869,American Indian or Alaska Native,Asthma,OKLAHOMA
+OK,1.180084382,White,COPD,OKLAHOMA
+OK,0.718275306,Black,COPD,OKLAHOMA
+OK,0.188670888,Hispanic,COPD,OKLAHOMA
+OK,1.09622657,Asian,COPD,OKLAHOMA
+OK,NA,Native Hawaian or Pacific Islander,COPD,OKLAHOMA
+OK,1.43486184,American Indian or Alaska Native,COPD,OKLAHOMA
+OK,1.062487246,White,Diabetes,OKLAHOMA
+OK,1.13016699,Black,Diabetes,OKLAHOMA
+OK,0.546074895,Hispanic,Diabetes,OKLAHOMA
+OK,1.879437898,Asian,Diabetes,OKLAHOMA
+OK,0.033019973,Native Hawaian or Pacific Islander,Diabetes,OKLAHOMA
+OK,1.408474245,American Indian or Alaska Native,Diabetes,OKLAHOMA
+OK,1.119835356,White,Kidney Disease,OKLAHOMA
+OK,1.073920816,Black,Kidney Disease,OKLAHOMA
+OK,0.909903621,Hispanic,Kidney Disease,OKLAHOMA
+OK,2.814205064,Asian,Kidney Disease,OKLAHOMA
+OK,0.490562981,American Indian or Alaska Native,Kidney Disease,OKLAHOMA
+OK,0.14126644,Native Hawaian or Pacific Islander,Kidney Disease,OKLAHOMA
+OK,1.064493784,White,Obesity,OKLAHOMA
+OK,1.174399153,Black,Obesity,OKLAHOMA
+OK,0.711270624,Hispanic,Obesity,OKLAHOMA
+OK,0.402935966,Asian,Obesity,OKLAHOMA
+OK,1.13786697,American Indian or Alaska Native,Obesity,OKLAHOMA
+OK,0.143260066,Native Hawaian or Pacific Islander,Obesity,OKLAHOMA
+OK,1.059324353,White,Smoking,OKLAHOMA
+OK,1.050592647,Black,Smoking,OKLAHOMA
+OK,0.491201161,Hispanic,Smoking,OKLAHOMA
+OK,3.468891989,Asian,Smoking,OKLAHOMA
+OK,0.069043077,Native Hawaian or Pacific Islander,Smoking,OKLAHOMA
+OK,1.121091945,American Indian or Alaska Native,Smoking,OKLAHOMA
+OR,1.199540682,White,Senior,OREGON
+OR,0.529244273,Black,Senior,OREGON
+OR,0.238509269,Hispanic,Senior,OREGON
+OR,0.786679796,Asian,Senior,OREGON
+OR,0.728301741,American Indian or Alaska Native,Senior,OREGON
+OR,0.494838302,Native Hawaian or Pacific Islander,Senior,OREGON
+OR,1.030708008,White,Asthma,OREGON
+OR,1.11503819,Black,Asthma,OREGON
+OR,0.707872833,Hispanic,Asthma,OREGON
+OR,1.51934232,Asian,Asthma,OREGON
+OR,NA,Native Hawaian or Pacific Islander,Asthma,OREGON
+OR,0.88271723,American Indian or Alaska Native,Asthma,OREGON
+OR,1.101541487,White,COPD,OREGON
+OR,0.324557207,Black,COPD,OREGON
+OR,0.360714642,Hispanic,COPD,OREGON
+OR,0.927333427,Asian,COPD,OREGON
+OR,0.325319046,Native Hawaian or Pacific Islander,COPD,OREGON
+OR,0.793975213,American Indian or Alaska Native,COPD,OREGON
+OR,1.032994795,White,Diabetes,OREGON
+OR,1.823230212,Black,Diabetes,OREGON
+OR,0.739400915,Hispanic,Diabetes,OREGON
+OR,1.2940976,Asian,Diabetes,OREGON
+OR,0.256072496,Native Hawaian or Pacific Islander,Diabetes,OREGON
+OR,1.401332305,American Indian or Alaska Native,Diabetes,OREGON
+OR,1.053267693,White,Kidney Disease,OREGON
+OR,2.056104279,Black,Kidney Disease,OREGON
+OR,0.678184666,Hispanic,Kidney Disease,OREGON
+OR,1.112806443,Asian,Kidney Disease,OREGON
+OR,1.422335357,American Indian or Alaska Native,Kidney Disease,OREGON
+OR,NA,Native Hawaian or Pacific Islander,Kidney Disease,OREGON
+OR,1.039197457,White,Obesity,OREGON
+OR,1.205481703,Black,Obesity,OREGON
+OR,0.854543093,Hispanic,Obesity,OREGON
+OR,0.482221621,Asian,Obesity,OREGON
+OR,1.570949877,American Indian or Alaska Native,Obesity,OREGON
+OR,0.188221134,Native Hawaian or Pacific Islander,Obesity,OREGON
+OR,1.067417683,White,Smoking,OREGON
+OR,0.699664233,Black,Smoking,OREGON
+OR,0.611471027,Hispanic,Smoking,OREGON
+OR,0.874679985,Asian,Smoking,OREGON
+OR,0.324556818,Native Hawaian or Pacific Islander,Smoking,OREGON
+OR,1.863625946,American Indian or Alaska Native,Smoking,OREGON
+PA,1.154690776,White,Senior,PENNSYLVANIA
+PA,0.65667717,Black,Senior,PENNSYLVANIA
+PA,0.287757928,Hispanic,Senior,PENNSYLVANIA
+PA,0.513597396,Asian,Senior,PENNSYLVANIA
+PA,0.799082995,American Indian or Alaska Native,Senior,PENNSYLVANIA
+PA,0.504861269,Native Hawaian or Pacific Islander,Senior,PENNSYLVANIA
+PA,0.942716988,White,Asthma,PENNSYLVANIA
+PA,1.19866519,Black,Asthma,PENNSYLVANIA
+PA,1.461530625,Hispanic,Asthma,PENNSYLVANIA
+PA,2.389384182,Asian,Asthma,PENNSYLVANIA
+PA,NA,Native Hawaian or Pacific Islander,Asthma,PENNSYLVANIA
+PA,9.116358403,American Indian or Alaska Native,Asthma,PENNSYLVANIA
+PA,1.032659608,White,COPD,PENNSYLVANIA
+PA,0.974442379,Black,COPD,PENNSYLVANIA
+PA,1.109588042,Hispanic,COPD,PENNSYLVANIA
+PA,0.124625626,Asian,COPD,PENNSYLVANIA
+PA,NA,Native Hawaian or Pacific Islander,COPD,PENNSYLVANIA
+PA,12.14609404,American Indian or Alaska Native,COPD,PENNSYLVANIA
+PA,0.957989178,White,Diabetes,PENNSYLVANIA
+PA,1.405003531,Black,Diabetes,PENNSYLVANIA
+PA,0.968087152,Hispanic,Diabetes,PENNSYLVANIA
+PA,2.052595375,Asian,Diabetes,PENNSYLVANIA
+PA,0.055211146,Native Hawaian or Pacific Islander,Diabetes,PENNSYLVANIA
+PA,10.415343,American Indian or Alaska Native,Diabetes,PENNSYLVANIA
+PA,1.009910467,White,Kidney Disease,PENNSYLVANIA
+PA,1.223815578,Black,Kidney Disease,PENNSYLVANIA
+PA,0.826419782,Hispanic,Kidney Disease,PENNSYLVANIA
+PA,2.537195221,Asian,Kidney Disease,PENNSYLVANIA
+PA,10.29292807,American Indian or Alaska Native,Kidney Disease,PENNSYLVANIA
+PA,NA,Native Hawaian or Pacific Islander,Kidney Disease,PENNSYLVANIA
+PA,0.998658133,White,Obesity,PENNSYLVANIA
+PA,1.27150596,Black,Obesity,PENNSYLVANIA
+PA,1.039884786,Hispanic,Obesity,PENNSYLVANIA
+PA,0.578034231,Asian,Obesity,PENNSYLVANIA
+PA,8.190635974,American Indian or Alaska Native,Obesity,PENNSYLVANIA
+PA,NA,Native Hawaian or Pacific Islander,Obesity,PENNSYLVANIA
+PA,0.97572622,White,Smoking,PENNSYLVANIA
+PA,1.308521001,Black,Smoking,PENNSYLVANIA
+PA,1.012106557,Hispanic,Smoking,PENNSYLVANIA
+PA,0.391591215,Asian,Smoking,PENNSYLVANIA
+PA,0.032919748,Native Hawaian or Pacific Islander,Smoking,PENNSYLVANIA
+PA,12.85851136,American Indian or Alaska Native,Smoking,PENNSYLVANIA
+RI,1.230593397,White,Senior,RHODE ISLAND
+RI,0.523546793,Black,Senior,RHODE ISLAND
+RI,0.319560447,Hispanic,Senior,RHODE ISLAND
+RI,0.440540285,Asian,Senior,RHODE ISLAND
+RI,0.607876541,American Indian or Alaska Native,Senior,RHODE ISLAND
+RI,0.466419131,Native Hawaian or Pacific Islander,Senior,RHODE ISLAND
+RI,0.984428741,White,Asthma,RHODE ISLAND
+RI,0.786393061,Black,Asthma,RHODE ISLAND
+RI,1.005033441,Hispanic,Asthma,RHODE ISLAND
+RI,1.42521943,Asian,Asthma,RHODE ISLAND
+RI,0.019893567,Native Hawaian or Pacific Islander,Asthma,RHODE ISLAND
+RI,8.876652344,American Indian or Alaska Native,Asthma,RHODE ISLAND
+RI,1.159189583,White,COPD,RHODE ISLAND
+RI,0.420182205,Black,COPD,RHODE ISLAND
+RI,0.431314522,Hispanic,COPD,RHODE ISLAND
+RI,NA,Asian,COPD,RHODE ISLAND
+RI,NA,Native Hawaian or Pacific Islander,COPD,RHODE ISLAND
+RI,9.560261723,American Indian or Alaska Native,COPD,RHODE ISLAND
+RI,1.006834515,White,Diabetes,RHODE ISLAND
+RI,0.750763198,Black,Diabetes,RHODE ISLAND
+RI,0.99136758,Hispanic,Diabetes,RHODE ISLAND
+RI,1.092489195,Asian,Diabetes,RHODE ISLAND
+RI,0.056649664,Native Hawaian or Pacific Islander,Diabetes,RHODE ISLAND
+RI,10.17967281,American Indian or Alaska Native,Diabetes,RHODE ISLAND
+RI,1.105475495,White,Kidney Disease,RHODE ISLAND
+RI,0.279058322,Black,Kidney Disease,RHODE ISLAND
+RI,0.935886418,Hispanic,Kidney Disease,RHODE ISLAND
+RI,NA,Asian,Kidney Disease,RHODE ISLAND
+RI,0.518139585,American Indian or Alaska Native,Kidney Disease,RHODE ISLAND
+RI,NA,Native Hawaian or Pacific Islander,Kidney Disease,RHODE ISLAND
+RI,1.006877805,White,Obesity,RHODE ISLAND
+RI,1.207085075,Black,Obesity,RHODE ISLAND
+RI,0.985398467,Hispanic,Obesity,RHODE ISLAND
+RI,0.864043566,Asian,Obesity,RHODE ISLAND
+RI,4.124588464,American Indian or Alaska Native,Obesity,RHODE ISLAND
+RI,0.052137557,Native Hawaian or Pacific Islander,Obesity,RHODE ISLAND
+RI,1.110253117,White,Smoking,RHODE ISLAND
+RI,0.589691565,Black,Smoking,RHODE ISLAND
+RI,0.608515615,Hispanic,Smoking,RHODE ISLAND
+RI,1.662639863,Asian,Smoking,RHODE ISLAND
+RI,0.051001086,Native Hawaian or Pacific Islander,Smoking,RHODE ISLAND
+RI,3.216901387,American Indian or Alaska Native,Smoking,RHODE ISLAND
+SC,1.209601361,White,Senior,SOUTH CAROLINA
+SC,0.74120813,Black,Senior,SOUTH CAROLINA
+SC,0.248660596,Hispanic,Senior,SOUTH CAROLINA
+SC,0.577540857,Asian,Senior,SOUTH CAROLINA
+SC,0.708126256,American Indian or Alaska Native,Senior,SOUTH CAROLINA
+SC,0.616104461,Native Hawaian or Pacific Islander,Senior,SOUTH CAROLINA
+SC,1.024291109,White,Asthma,SOUTH CAROLINA
+SC,1.065166538,Black,Asthma,SOUTH CAROLINA
+SC,0.682644359,Hispanic,Asthma,SOUTH CAROLINA
+SC,0.922871464,Asian,Asthma,SOUTH CAROLINA
+SC,0.083448995,Native Hawaian or Pacific Islander,Asthma,SOUTH CAROLINA
+SC,1.679896917,American Indian or Alaska Native,Asthma,SOUTH CAROLINA
+SC,1.133031219,White,COPD,SOUTH CAROLINA
+SC,0.848621488,Black,COPD,SOUTH CAROLINA
+SC,0.387511839,Hispanic,COPD,SOUTH CAROLINA
+SC,NA,Asian,COPD,SOUTH CAROLINA
+SC,NA,Native Hawaian or Pacific Islander,COPD,SOUTH CAROLINA
+SC,3.466391434,American Indian or Alaska Native,COPD,SOUTH CAROLINA
+SC,0.979909853,White,Diabetes,SOUTH CAROLINA
+SC,1.250989491,Black,Diabetes,SOUTH CAROLINA
+SC,0.332550017,Hispanic,Diabetes,SOUTH CAROLINA
+SC,1.235365493,Asian,Diabetes,SOUTH CAROLINA
+SC,NA,Native Hawaian or Pacific Islander,Diabetes,SOUTH CAROLINA
+SC,2.089125958,American Indian or Alaska Native,Diabetes,SOUTH CAROLINA
+SC,1.078180308,White,Kidney Disease,SOUTH CAROLINA
+SC,0.954889498,Black,Kidney Disease,SOUTH CAROLINA
+SC,0.618196632,Hispanic,Kidney Disease,SOUTH CAROLINA
+SC,NA,Asian,Kidney Disease,SOUTH CAROLINA
+SC,3.246074705,American Indian or Alaska Native,Kidney Disease,SOUTH CAROLINA
+SC,NA,Native Hawaian or Pacific Islander,Kidney Disease,SOUTH CAROLINA
+SC,0.994437828,White,Obesity,SOUTH CAROLINA
+SC,1.139619561,Black,Obesity,SOUTH CAROLINA
+SC,0.611124362,Hispanic,Obesity,SOUTH CAROLINA
+SC,1.919253941,Asian,Obesity,SOUTH CAROLINA
+SC,2.187004193,American Indian or Alaska Native,Obesity,SOUTH CAROLINA
+SC,0.158617498,Native Hawaian or Pacific Islander,Obesity,SOUTH CAROLINA
+SC,1.091225318,White,Smoking,SOUTH CAROLINA
+SC,0.877685976,Black,Smoking,SOUTH CAROLINA
+SC,0.618758633,Hispanic,Smoking,SOUTH CAROLINA
+SC,1.237421085,Asian,Smoking,SOUTH CAROLINA
+SC,0.530106603,Native Hawaian or Pacific Islander,Smoking,SOUTH CAROLINA
+SC,1.381424982,American Indian or Alaska Native,Smoking,SOUTH CAROLINA
+SD,1.15592776,White,Senior,SOUTH DAKOTA
+SD,0.141050769,Black,Senior,SOUTH DAKOTA
+SD,0.209592367,Hispanic,Senior,SOUTH DAKOTA
+SD,0.160814991,Asian,Senior,SOUTH DAKOTA
+SD,0.389305564,American Indian or Alaska Native,Senior,SOUTH DAKOTA
+SD,0.150031961,Native Hawaian or Pacific Islander,Senior,SOUTH DAKOTA
+SD,1.029448192,White,Asthma,SOUTH DAKOTA
+SD,0.296918466,Black,Asthma,SOUTH DAKOTA
+SD,0.601559633,Hispanic,Asthma,SOUTH DAKOTA
+SD,0.783778705,Asian,Asthma,SOUTH DAKOTA
+SD,0.120869838,Native Hawaian or Pacific Islander,Asthma,SOUTH DAKOTA
+SD,0.952778531,American Indian or Alaska Native,Asthma,SOUTH DAKOTA
+SD,1.028020063,White,COPD,SOUTH DAKOTA
+SD,0.508172264,Black,COPD,SOUTH DAKOTA
+SD,0.509002082,Hispanic,COPD,SOUTH DAKOTA
+SD,4.030111216,Asian,COPD,SOUTH DAKOTA
+SD,NA,Native Hawaian or Pacific Islander,COPD,SOUTH DAKOTA
+SD,1.263510685,American Indian or Alaska Native,COPD,SOUTH DAKOTA
+SD,1.005148795,White,Diabetes,SOUTH DAKOTA
+SD,0.596300006,Black,Diabetes,SOUTH DAKOTA
+SD,0.773230586,Hispanic,Diabetes,SOUTH DAKOTA
+SD,0.526837522,Asian,Diabetes,SOUTH DAKOTA
+SD,0.021638854,Native Hawaian or Pacific Islander,Diabetes,SOUTH DAKOTA
+SD,1.395313999,American Indian or Alaska Native,Diabetes,SOUTH DAKOTA
+SD,1.012485279,White,Kidney Disease,SOUTH DAKOTA
+SD,1.819666066,Black,Kidney Disease,SOUTH DAKOTA
+SD,1.153241371,Hispanic,Kidney Disease,SOUTH DAKOTA
+SD,NA,Asian,Kidney Disease,SOUTH DAKOTA
+SD,1.029624262,American Indian or Alaska Native,Kidney Disease,SOUTH DAKOTA
+SD,NA,Native Hawaian or Pacific Islander,Kidney Disease,SOUTH DAKOTA
+SD,1.010026614,White,Obesity,SOUTH DAKOTA
+SD,0.375021525,Black,Obesity,SOUTH DAKOTA
+SD,0.727493958,Hispanic,Obesity,SOUTH DAKOTA
+SD,0.329293315,Asian,Obesity,SOUTH DAKOTA
+SD,1.27742933,American Indian or Alaska Native,Obesity,SOUTH DAKOTA
+SD,0.048876444,Native Hawaian or Pacific Islander,Obesity,SOUTH DAKOTA
+SD,0.933684179,White,Smoking,SOUTH DAKOTA
+SD,0.588969752,Black,Smoking,SOUTH DAKOTA
+SD,1.475941708,Hispanic,Smoking,SOUTH DAKOTA
+SD,1.039135488,Asian,Smoking,SOUTH DAKOTA
+SD,NA,Native Hawaian or Pacific Islander,Smoking,SOUTH DAKOTA
+SD,1.507721547,American Indian or Alaska Native,Smoking,SOUTH DAKOTA
+TN,1.171668079,White,Senior,TENNESSEE
+TN,0.617609389,Black,Senior,TENNESSEE
+TN,0.199692644,Hispanic,Senior,TENNESSEE
+TN,0.47341238,Asian,Senior,TENNESSEE
+TN,0.838441674,American Indian or Alaska Native,Senior,TENNESSEE
+TN,0.538934596,Native Hawaian or Pacific Islander,Senior,TENNESSEE
+TN,0.988235598,White,Asthma,TENNESSEE
+TN,1.101306031,Black,Asthma,TENNESSEE
+TN,0.78648672,Hispanic,Asthma,TENNESSEE
+TN,0.953293191,Asian,Asthma,TENNESSEE
+TN,0.231910287,Native Hawaian or Pacific Islander,Asthma,TENNESSEE
+TN,6.577359212,American Indian or Alaska Native,Asthma,TENNESSEE
+TN,1.065827038,White,COPD,TENNESSEE
+TN,0.92396398,Black,COPD,TENNESSEE
+TN,0.117132765,Hispanic,COPD,TENNESSEE
+TN,0.479886496,Asian,COPD,TENNESSEE
+TN,0.168212834,Native Hawaian or Pacific Islander,COPD,TENNESSEE
+TN,9.477669934,American Indian or Alaska Native,COPD,TENNESSEE
+TN,1.080180855,White,Diabetes,TENNESSEE
+TN,0.975932577,Black,Diabetes,TENNESSEE
+TN,0.331359546,Hispanic,Diabetes,TENNESSEE
+TN,0.708995504,Asian,Diabetes,TENNESSEE
+TN,NA,Native Hawaian or Pacific Islander,Diabetes,TENNESSEE
+TN,2.459235316,American Indian or Alaska Native,Diabetes,TENNESSEE
+TN,1.017145137,White,Kidney Disease,TENNESSEE
+TN,0.893838134,Black,Kidney Disease,TENNESSEE
+TN,0.315563087,Hispanic,Kidney Disease,TENNESSEE
+TN,1.356750777,Asian,Kidney Disease,TENNESSEE
+TN,24.89085201,American Indian or Alaska Native,Kidney Disease,TENNESSEE
+TN,NA,Native Hawaian or Pacific Islander,Kidney Disease,TENNESSEE
+TN,1.00250749,White,Obesity,TENNESSEE
+TN,1.158597851,Black,Obesity,TENNESSEE
+TN,0.722357736,Hispanic,Obesity,TENNESSEE
+TN,0.592229728,Asian,Obesity,TENNESSEE
+TN,3.64118636,American Indian or Alaska Native,Obesity,TENNESSEE
+TN,0.056492138,Native Hawaian or Pacific Islander,Obesity,TENNESSEE
+TN,1.0531325,White,Smoking,TENNESSEE
+TN,0.961409789,Black,Smoking,TENNESSEE
+TN,0.359183101,Hispanic,Smoking,TENNESSEE
+TN,0.682244975,Asian,Smoking,TENNESSEE
+TN,0.090993484,Native Hawaian or Pacific Islander,Smoking,TENNESSEE
+TN,7.632702953,American Indian or Alaska Native,Smoking,TENNESSEE
+TX,1.516887162,White,Senior,TEXAS
+TX,0.750838889,Black,Senior,TEXAS
+TX,0.570176194,Hispanic,Senior,TEXAS
+TX,1.010118775,Asian,Senior,TEXAS
+TX,1.097491422,American Indian or Alaska Native,Senior,TEXAS
+TX,0.699808468,Native Hawaian or Pacific Islander,Senior,TEXAS
+TX,1.211259434,White,Asthma,TEXAS
+TX,1.355832827,Black,Asthma,TEXAS
+TX,0.627893104,Hispanic,Asthma,TEXAS
+TX,4.825838306,Asian,Asthma,TEXAS
+TX,0.003696127,Native Hawaian or Pacific Islander,Asthma,TEXAS
+TX,8.8902288,American Indian or Alaska Native,Asthma,TEXAS
+TX,1.429110515,White,COPD,TEXAS
+TX,1.465639913,Black,COPD,TEXAS
+TX,0.479571881,Hispanic,COPD,TEXAS
+TX,0.026490143,Asian,COPD,TEXAS
+TX,0.000646288,Native Hawaian or Pacific Islander,COPD,TEXAS
+TX,6.073293682,American Indian or Alaska Native,COPD,TEXAS
+TX,1.068863396,White,Diabetes,TEXAS
+TX,1.142467668,Black,Diabetes,TEXAS
+TX,0.958615925,Hispanic,Diabetes,TEXAS
+TX,1.778893,Asian,Diabetes,TEXAS
+TX,0.0003119,Native Hawaian or Pacific Islander,Diabetes,TEXAS
+TX,3.95241799,American Indian or Alaska Native,Diabetes,TEXAS
+TX,0.952018063,White,Kidney Disease,TEXAS
+TX,1.645401015,Black,Kidney Disease,TEXAS
+TX,0.969196422,Hispanic,Kidney Disease,TEXAS
+TX,0.42212313,Asian,Kidney Disease,TEXAS
+TX,3.864054495,American Indian or Alaska Native,Kidney Disease,TEXAS
+TX,NA,Native Hawaian or Pacific Islander,Kidney Disease,TEXAS
+TX,1.049941996,White,Obesity,TEXAS
+TX,1.171006974,Black,Obesity,TEXAS
+TX,0.983843963,Hispanic,Obesity,TEXAS
+TX,1.512719046,Asian,Obesity,TEXAS
+TX,4.817479851,American Indian or Alaska Native,Obesity,TEXAS
+TX,0.008243159,Native Hawaian or Pacific Islander,Obesity,TEXAS
+TX,1.099405678,White,Smoking,TEXAS
+TX,1.433102558,Black,Smoking,TEXAS
+TX,0.782393547,Hispanic,Smoking,TEXAS
+TX,2.973359801,Asian,Smoking,TEXAS
+TX,0.005383214,Native Hawaian or Pacific Islander,Smoking,TEXAS
+TX,7.859044785,American Indian or Alaska Native,Smoking,TEXAS
+UT,1.154606377,White,Senior,UTAH
+UT,0.342071736,Black,Senior,UTAH
+UT,0.389944777,Hispanic,Senior,UTAH
+UT,1.241807371,Asian,Senior,UTAH
+UT,0.668117618,American Indian or Alaska Native,Senior,UTAH
+UT,0.615529639,Native Hawaian or Pacific Islander,Senior,UTAH
+UT,1.08385132,White,Asthma,UTAH
+UT,1.161388807,Black,Asthma,UTAH
+UT,0.65778221,Hispanic,Asthma,UTAH
+UT,1.331487098,Asian,Asthma,UTAH
+UT,0.025835983,Native Hawaian or Pacific Islander,Asthma,UTAH
+UT,1.055009333,American Indian or Alaska Native,Asthma,UTAH
+UT,1.080936383,White,COPD,UTAH
+UT,0.95299292,Black,COPD,UTAH
+UT,0.865485976,Hispanic,COPD,UTAH
+UT,NA,Asian,COPD,UTAH
+UT,0.122350263,Native Hawaian or Pacific Islander,COPD,UTAH
+UT,0.322603931,American Indian or Alaska Native,COPD,UTAH
+UT,0.998912508,White,Diabetes,UTAH
+UT,0.526347817,Black,Diabetes,UTAH
+UT,1.073291206,Hispanic,Diabetes,UTAH
+UT,1.749867036,Asian,Diabetes,UTAH
+UT,0.179467492,Native Hawaian or Pacific Islander,Diabetes,UTAH
+UT,1.88141075,American Indian or Alaska Native,Diabetes,UTAH
+UT,0.996957589,White,Kidney Disease,UTAH
+UT,0.267754723,Black,Kidney Disease,UTAH
+UT,1.108725084,Hispanic,Kidney Disease,UTAH
+UT,2.676679699,Asian,Kidney Disease,UTAH
+UT,1.920916847,American Indian or Alaska Native,Kidney Disease,UTAH
+UT,0.311226111,Native Hawaian or Pacific Islander,Kidney Disease,UTAH
+UT,1.010969734,White,Obesity,UTAH
+UT,1.273605737,Black,Obesity,UTAH
+UT,0.90466438,Hispanic,Obesity,UTAH
+UT,1.928407763,Asian,Obesity,UTAH
+UT,1.49737753,American Indian or Alaska Native,Obesity,UTAH
+UT,0.560085808,Native Hawaian or Pacific Islander,Obesity,UTAH
+UT,0.925047264,White,Smoking,UTAH
+UT,1.47067907,Black,Smoking,UTAH
+UT,1.185502731,Hispanic,Smoking,UTAH
+UT,1.729124269,Asian,Smoking,UTAH
+UT,0.608405208,Native Hawaian or Pacific Islander,Smoking,UTAH
+UT,2.845884883,American Indian or Alaska Native,Smoking,UTAH
+VT,1.045605527,White,Senior,VERMONT
+VT,0.158244175,Black,Senior,VERMONT
+VT,0.443045656,Hispanic,Senior,VERMONT
+VT,0.333974243,Asian,Senior,VERMONT
+VT,1.184238341,American Indian or Alaska Native,Senior,VERMONT
+VT,0.191566227,Native Hawaian or Pacific Islander,Senior,VERMONT
+VT,1.000739755,White,Asthma,VERMONT
+VT,0.535086897,Black,Asthma,VERMONT
+VT,0.88897256,Hispanic,Asthma,VERMONT
+VT,0.731430114,Asian,Asthma,VERMONT
+VT,0.142466527,Native Hawaian or Pacific Islander,Asthma,VERMONT
+VT,5.272548228,American Indian or Alaska Native,Asthma,VERMONT
+VT,1.011728703,White,COPD,VERMONT
+VT,0.140748237,Black,COPD,VERMONT
+VT,0.091301786,Hispanic,COPD,VERMONT
+VT,NA,Asian,COPD,VERMONT
+VT,NA,Native Hawaian or Pacific Islander,COPD,VERMONT
+VT,5.349124513,American Indian or Alaska Native,COPD,VERMONT
+VT,1.027828234,White,Diabetes,VERMONT
+VT,0.131102376,Black,Diabetes,VERMONT
+VT,0.637166895,Hispanic,Diabetes,VERMONT
+VT,0.319373847,Asian,Diabetes,VERMONT
+VT,NA,Native Hawaian or Pacific Islander,Diabetes,VERMONT
+VT,4.041869385,American Indian or Alaska Native,Diabetes,VERMONT
+VT,1.030066297,White,Kidney Disease,VERMONT
+VT,NA,Black,Kidney Disease,VERMONT
+VT,0.339281084,Hispanic,Kidney Disease,VERMONT
+VT,NA,Asian,Kidney Disease,VERMONT
+VT,5.73142204,American Indian or Alaska Native,Kidney Disease,VERMONT
+VT,NA,Native Hawaian or Pacific Islander,Kidney Disease,VERMONT
+VT,1.024137328,White,Obesity,VERMONT
+VT,0.630381281,Black,Obesity,VERMONT
+VT,0.77292391,Hispanic,Obesity,VERMONT
+VT,0.193702366,Asian,Obesity,VERMONT
+VT,3.44413767,American Indian or Alaska Native,Obesity,VERMONT
+VT,NA,Native Hawaian or Pacific Islander,Obesity,VERMONT
+VT,0.954843599,White,Smoking,VERMONT
+VT,0.422852945,Black,Smoking,VERMONT
+VT,1.448817798,Hispanic,Smoking,VERMONT
+VT,2.253398947,Asian,Smoking,VERMONT
+VT,0.671101977,Native Hawaian or Pacific Islander,Smoking,VERMONT
+VT,8.205437083,American Indian or Alaska Native,Smoking,VERMONT
+VA,1.236623292,White,Senior,VIRGINIA
+VA,0.798772499,Black,Senior,VIRGINIA
+VA,0.282610548,Hispanic,Senior,VIRGINIA
+VA,0.831803976,Asian,Senior,VIRGINIA
+VA,1.035396034,American Indian or Alaska Native,Senior,VIRGINIA
+VA,0.66061995,Native Hawaian or Pacific Islander,Senior,VIRGINIA
+VA,1.024782067,White,Asthma,VIRGINIA
+VA,1.239657949,Black,Asthma,VIRGINIA
+VA,0.709903425,Hispanic,Asthma,VIRGINIA
+VA,2.848428978,Asian,Asthma,VIRGINIA
+VA,0.047628658,Native Hawaian or Pacific Islander,Asthma,VIRGINIA
+VA,1.66775052,American Indian or Alaska Native,Asthma,VIRGINIA
+VA,1.162809164,White,COPD,VIRGINIA
+VA,0.900055395,Black,COPD,VIRGINIA
+VA,0.466236033,Hispanic,COPD,VIRGINIA
+VA,3.27950955,Asian,COPD,VIRGINIA
+VA,0.061140973,Native Hawaian or Pacific Islander,COPD,VIRGINIA
+VA,2.194723677,American Indian or Alaska Native,COPD,VIRGINIA
+VA,0.958239335,White,Diabetes,VIRGINIA
+VA,1.363442225,Black,Diabetes,VIRGINIA
+VA,0.598595363,Hispanic,Diabetes,VIRGINIA
+VA,6.677519368,Asian,Diabetes,VIRGINIA
+VA,0.054567005,Native Hawaian or Pacific Islander,Diabetes,VIRGINIA
+VA,1.386958707,American Indian or Alaska Native,Diabetes,VIRGINIA
+VA,0.994310156,White,Kidney Disease,VIRGINIA
+VA,1.39216696,Black,Kidney Disease,VIRGINIA
+VA,0.553209776,Hispanic,Kidney Disease,VIRGINIA
+VA,3.60878888,Asian,Kidney Disease,VIRGINIA
+VA,2.179578136,American Indian or Alaska Native,Kidney Disease,VIRGINIA
+VA,0.15228863,Native Hawaian or Pacific Islander,Kidney Disease,VIRGINIA
+VA,1.022173486,White,Obesity,VIRGINIA
+VA,1.339179155,Black,Obesity,VIRGINIA
+VA,0.667086451,Hispanic,Obesity,VIRGINIA
+VA,2.499929878,Asian,Obesity,VIRGINIA
+VA,1.24401391,American Indian or Alaska Native,Obesity,VIRGINIA
+VA,0.049142078,Native Hawaian or Pacific Islander,Obesity,VIRGINIA
+VA,1.080866302,White,Smoking,VIRGINIA
+VA,1.186465921,Black,Smoking,VIRGINIA
+VA,0.521410144,Hispanic,Smoking,VIRGINIA
+VA,2.882409368,Asian,Smoking,VIRGINIA
+VA,0.015586937,Native Hawaian or Pacific Islander,Smoking,VIRGINIA
+VA,1.890782625,American Indian or Alaska Native,Smoking,VIRGINIA
+WA,1.2465655,White,Senior,WASHINGTON
+WA,0.531957373,Black,Senior,WASHINGTON
+WA,0.250433626,Hispanic,Senior,WASHINGTON
+WA,1.051836167,Asian,Senior,WASHINGTON
+WA,0.649859757,American Indian or Alaska Native,Senior,WASHINGTON
+WA,0.644834587,Native Hawaian or Pacific Islander,Senior,WASHINGTON
+WA,1.090026097,White,Asthma,WASHINGTON
+WA,0.88616319,Black,Asthma,WASHINGTON
+WA,0.611730009,Hispanic,Asthma,WASHINGTON
+WA,2.471572226,Asian,Asthma,WASHINGTON
+WA,0.129321414,Native Hawaian or Pacific Islander,Asthma,WASHINGTON
+WA,2.480887844,American Indian or Alaska Native,Asthma,WASHINGTON
+WA,1.218728974,White,COPD,WASHINGTON
+WA,0.821514729,Black,COPD,WASHINGTON
+WA,0.329969545,Hispanic,COPD,WASHINGTON
+WA,1.124863558,Asian,COPD,WASHINGTON
+WA,0.048574427,Native Hawaian or Pacific Islander,COPD,WASHINGTON
+WA,2.682376555,American Indian or Alaska Native,COPD,WASHINGTON
+WA,1.056124705,White,Diabetes,WASHINGTON
+WA,1.544062866,Black,Diabetes,WASHINGTON
+WA,0.965643863,Hispanic,Diabetes,WASHINGTON
+WA,1.994896364,Asian,Diabetes,WASHINGTON
+WA,0.121470513,Native Hawaian or Pacific Islander,Diabetes,WASHINGTON
+WA,1.507021116,American Indian or Alaska Native,Diabetes,WASHINGTON
+WA,1.092591939,White,Kidney Disease,WASHINGTON
+WA,1.546370568,Black,Kidney Disease,WASHINGTON
+WA,0.57648501,Hispanic,Kidney Disease,WASHINGTON
+WA,2.554588087,Asian,Kidney Disease,WASHINGTON
+WA,2.121229014,American Indian or Alaska Native,Kidney Disease,WASHINGTON
+WA,0.136896972,Native Hawaian or Pacific Islander,Kidney Disease,WASHINGTON
+WA,1.104509371,White,Obesity,WASHINGTON
+WA,0.923652378,Black,Obesity,WASHINGTON
+WA,0.946642667,Hispanic,Obesity,WASHINGTON
+WA,1.265100367,Asian,Obesity,WASHINGTON
+WA,1.274703423,American Indian or Alaska Native,Obesity,WASHINGTON
+WA,0.111995312,Native Hawaian or Pacific Islander,Obesity,WASHINGTON
+WA,1.073669966,White,Smoking,WASHINGTON
+WA,0.799862695,Black,Smoking,WASHINGTON
+WA,0.673431994,Hispanic,Smoking,WASHINGTON
+WA,2.746297799,Asian,Smoking,WASHINGTON
+WA,0.137172989,Native Hawaian or Pacific Islander,Smoking,WASHINGTON
+WA,2.413485278,American Indian or Alaska Native,Smoking,WASHINGTON
+WV,1.040938091,White,Senior,WEST VIRGINIA
+WV,0.650807054,Black,Senior,WEST VIRGINIA
+WV,0.375911437,Hispanic,Senior,WEST VIRGINIA
+WV,0.471234009,Asian,Senior,WEST VIRGINIA
+WV,0.661995627,American Indian or Alaska Native,Senior,WEST VIRGINIA
+WV,0.604647663,Native Hawaian or Pacific Islander,Senior,WEST VIRGINIA
+WV,0.981268201,White,Asthma,WEST VIRGINIA
+WV,1.168509181,Black,Asthma,WEST VIRGINIA
+WV,0.739445964,Hispanic,Asthma,WEST VIRGINIA
+WV,1.296750201,Asian,Asthma,WEST VIRGINIA
+WV,NA,Native Hawaian or Pacific Islander,Asthma,WEST VIRGINIA
+WV,8.973383152,American Indian or Alaska Native,Asthma,WEST VIRGINIA
+WV,0.991644535,White,COPD,WEST VIRGINIA
+WV,1.284374518,Black,COPD,WEST VIRGINIA
+WV,0.732319877,Hispanic,COPD,WEST VIRGINIA
+WV,NA,Asian,COPD,WEST VIRGINIA
+WV,NA,Native Hawaian or Pacific Islander,COPD,WEST VIRGINIA
+WV,4.977401455,American Indian or Alaska Native,COPD,WEST VIRGINIA
+WV,1.034066925,White,Diabetes,WEST VIRGINIA
+WV,0.627814078,Black,Diabetes,WEST VIRGINIA
+WV,0.211622675,Hispanic,Diabetes,WEST VIRGINIA
+WV,0.397863249,Asian,Diabetes,WEST VIRGINIA
+WV,NA,Native Hawaian or Pacific Islander,Diabetes,WEST VIRGINIA
+WV,4.596268475,American Indian or Alaska Native,Diabetes,WEST VIRGINIA
+WV,1.022899754,White,Kidney Disease,WEST VIRGINIA
+WV,0.149722247,Black,Kidney Disease,WEST VIRGINIA
+WV,0.240032285,Hispanic,Kidney Disease,WEST VIRGINIA
+WV,NA,Asian,Kidney Disease,WEST VIRGINIA
+WV,10.84784204,American Indian or Alaska Native,Kidney Disease,WEST VIRGINIA
+WV,NA,Native Hawaian or Pacific Islander,Kidney Disease,WEST VIRGINIA
+WV,1.020860023,White,Obesity,WEST VIRGINIA
+WV,0.954870309,Black,Obesity,WEST VIRGINIA
+WV,0.573284604,Hispanic,Obesity,WEST VIRGINIA
+WV,0.064134932,Asian,Obesity,WEST VIRGINIA
+WV,2.289546604,American Indian or Alaska Native,Obesity,WEST VIRGINIA
+WV,NA,Native Hawaian or Pacific Islander,Obesity,WEST VIRGINIA
+WV,1.00768908,White,Smoking,WEST VIRGINIA
+WV,0.902015667,Black,Smoking,WEST VIRGINIA
+WV,0.846019429,Hispanic,Smoking,WEST VIRGINIA
+WV,NA,Asian,Smoking,WEST VIRGINIA
+WV,NA,Native Hawaian or Pacific Islander,Smoking,WEST VIRGINIA
+WV,5.438825179,American Indian or Alaska Native,Smoking,WEST VIRGINIA
+WI,1.149243408,White,Senior,WISCONSIN
+WI,0.47646371,Black,Senior,WISCONSIN
+WI,0.224821023,Hispanic,Senior,WISCONSIN
+WI,0.591718694,Asian,Senior,WISCONSIN
+WI,0.60970631,American Indian or Alaska Native,Senior,WISCONSIN
+WI,0.293248649,Native Hawaian or Pacific Islander,Senior,WISCONSIN
+WI,0.99828276,White,Asthma,WISCONSIN
+WI,1.2307585,Black,Asthma,WISCONSIN
+WI,1.059567806,Hispanic,Asthma,WISCONSIN
+WI,2.456182199,Asian,Asthma,WISCONSIN
+WI,NA,Native Hawaian or Pacific Islander,Asthma,WISCONSIN
+WI,0.351857888,American Indian or Alaska Native,Asthma,WISCONSIN
+WI,1.083002365,White,COPD,WISCONSIN
+WI,0.970385944,Black,COPD,WISCONSIN
+WI,0.562789374,Hispanic,COPD,WISCONSIN
+WI,1.187188041,Asian,COPD,WISCONSIN
+WI,NA,Native Hawaian or Pacific Islander,COPD,WISCONSIN
+WI,0.831288733,American Indian or Alaska Native,COPD,WISCONSIN
+WI,1.02283967,White,Diabetes,WISCONSIN
+WI,0.952151904,Black,Diabetes,WISCONSIN
+WI,0.920798139,Hispanic,Diabetes,WISCONSIN
+WI,1.188947022,Asian,Diabetes,WISCONSIN
+WI,0.008323157,Native Hawaian or Pacific Islander,Diabetes,WISCONSIN
+WI,2.20341907,American Indian or Alaska Native,Diabetes,WISCONSIN
+WI,1.035327097,White,Kidney Disease,WISCONSIN
+WI,1.342373235,Black,Kidney Disease,WISCONSIN
+WI,0.894153937,Hispanic,Kidney Disease,WISCONSIN
+WI,NA,Asian,Kidney Disease,WISCONSIN
+WI,0.209430478,American Indian or Alaska Native,Kidney Disease,WISCONSIN
+WI,NA,Native Hawaian or Pacific Islander,Kidney Disease,WISCONSIN
+WI,1.019352337,White,Obesity,WISCONSIN
+WI,0.956718259,Black,Obesity,WISCONSIN
+WI,1.006426505,Hispanic,Obesity,WISCONSIN
+WI,3.169812033,Asian,Obesity,WISCONSIN
+WI,1.53039787,American Indian or Alaska Native,Obesity,WISCONSIN
+WI,0.014111079,Native Hawaian or Pacific Islander,Obesity,WISCONSIN
+WI,1.036020796,White,Smoking,WISCONSIN
+WI,0.884718678,Black,Smoking,WISCONSIN
+WI,0.872512091,Hispanic,Smoking,WISCONSIN
+WI,2.589775616,Asian,Smoking,WISCONSIN
+WI,0.018631086,Native Hawaian or Pacific Islander,Smoking,WISCONSIN
+WI,1.79695855,American Indian or Alaska Native,Smoking,WISCONSIN
+WY,1.104878913,White,Senior,WYOMING
+WY,0.362628499,Black,Senior,WYOMING
+WY,0.440111652,Hispanic,Senior,WYOMING
+WY,0.796742431,Asian,Senior,WYOMING
+WY,0.532278432,American Indian or Alaska Native,Senior,WYOMING
+WY,0.368121749,Native Hawaian or Pacific Islander,Senior,WYOMING
+WY,0.971054225,White,Asthma,WYOMING
+WY,0.369905517,Black,Asthma,WYOMING
+WY,0.918653459,Hispanic,Asthma,WYOMING
+WY,NA,Asian,Asthma,WYOMING
+WY,NA,Native Hawaian or Pacific Islander,Asthma,WYOMING
+WY,1.305938306,American Indian or Alaska Native,Asthma,WYOMING
+WY,1.049586242,White,COPD,WYOMING
+WY,0.251403418,Black,COPD,WYOMING
+WY,0.490921798,Hispanic,COPD,WYOMING
+WY,NA,Asian,COPD,WYOMING
+WY,NA,Native Hawaian or Pacific Islander,COPD,WYOMING
+WY,1.121641289,American Indian or Alaska Native,COPD,WYOMING
+WY,0.93076162,White,Diabetes,WYOMING
+WY,0.468616084,Black,Diabetes,WYOMING
+WY,1.46042909,Hispanic,Diabetes,WYOMING
+WY,1.044397916,Asian,Diabetes,WYOMING
+WY,NA,Native Hawaian or Pacific Islander,Diabetes,WYOMING
+WY,2.47448946,American Indian or Alaska Native,Diabetes,WYOMING
+WY,1.005459384,White,Kidney Disease,WYOMING
+WY,0.676444542,Black,Kidney Disease,WYOMING
+WY,1.277616153,Hispanic,Kidney Disease,WYOMING
+WY,NA,Asian,Kidney Disease,WYOMING
+WY,0.783378679,American Indian or Alaska Native,Kidney Disease,WYOMING
+WY,NA,Native Hawaian or Pacific Islander,Kidney Disease,WYOMING
+WY,1.004322964,White,Obesity,WYOMING
+WY,0.407245883,Black,Obesity,WYOMING
+WY,1.02798169,Hispanic,Obesity,WYOMING
+WY,0.693193299,Asian,Obesity,WYOMING
+WY,1.311966784,American Indian or Alaska Native,Obesity,WYOMING
+WY,0.574487153,Native Hawaian or Pacific Islander,Obesity,WYOMING
+WY,0.938790105,White,Smoking,WYOMING
+WY,0.269764028,Black,Smoking,WYOMING
+WY,1.297243931,Hispanic,Smoking,WYOMING
+WY,1.151176301,Asian,Smoking,WYOMING
+WY,NA,Native Hawaian or Pacific Islander,Smoking,WYOMING
+WY,1.968185488,American Indian or Alaska Native,Smoking,WYOMING

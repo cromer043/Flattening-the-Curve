@@ -1,0 +1,307 @@
+GEO_ID,state,NAME,Population,Category,Percent,abb,flavortext
+0400000US01,01,Alabama,4864680,American Indian or Alaska Native,1.3,AL,Alabama<br>American Indian or Alaska Native: 1.3<br>
+0400000US01,01,Alabama,4864680,Asian,1.7,AL,Alabama<br>Asian: 1.7<br>
+0400000US01,01,Alabama,4864680,Black,27.4,AL,Alabama<br>Black: 27.4<br>
+0400000US01,01,Alabama,4864680,Hispanic,4.2,AL,Alabama<br>Hispanic: 4.2<br>
+0400000US01,01,Alabama,4864680,Native Hawaiian or Pacific Islander,0.1,AL,Alabama<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US01,01,Alabama,4864680,White,69.9,AL,Alabama<br>White: 69.9<br>
+0400000US02,02,Alaska,738516,American Indian or Alaska Native,19.7,AK,Alaska<br>American Indian or Alaska Native: 19.7<br>
+0400000US02,02,Alaska,738516,Asian,8.3,AK,Alaska<br>Asian: 8.3<br>
+0400000US02,02,Alaska,738516,Black,4.9,AK,Alaska<br>Black: 4.9<br>
+0400000US02,02,Alaska,738516,Hispanic,6.9,AK,Alaska<br>Hispanic: 6.9<br>
+0400000US02,02,Alaska,738516,Native Hawaiian or Pacific Islander,2,AK,Alaska<br>Native Hawaiian or Pacific Islander: 2<br>
+0400000US02,02,Alaska,738516,White,72.4,AK,Alaska<br>White: 72.4<br>
+0400000US04,04,Arizona,6946685,American Indian or Alaska Native,5.6,AZ,Arizona<br>American Indian or Alaska Native: 5.6<br>
+0400000US04,04,Arizona,6946685,Asian,4.3,AZ,Arizona<br>Asian: 4.3<br>
+0400000US04,04,Arizona,6946685,Black,5.6,AZ,Arizona<br>Black: 5.6<br>
+0400000US04,04,Arizona,6946685,Hispanic,31.1,AZ,Arizona<br>Hispanic: 31.1<br>
+0400000US04,04,Arizona,6946685,Native Hawaiian or Pacific Islander,0.5,AZ,Arizona<br>Native Hawaiian or Pacific Islander: 0.5<br>
+0400000US04,04,Arizona,6946685,White,80.3,AZ,Arizona<br>White: 80.3<br>
+0400000US05,05,Arkansas,2990671,American Indian or Alaska Native,1.9,AR,Arkansas<br>American Indian or Alaska Native: 1.9<br>
+0400000US05,05,Arkansas,2990671,Asian,1.9,AR,Arkansas<br>Asian: 1.9<br>
+0400000US05,05,Arkansas,2990671,Black,16.3,AR,Arkansas<br>Black: 16.3<br>
+0400000US05,05,Arkansas,2990671,Hispanic,7.3,AR,Arkansas<br>Hispanic: 7.3<br>
+0400000US05,05,Arkansas,2990671,Native Hawaiian or Pacific Islander,0.4,AR,Arkansas<br>Native Hawaiian or Pacific Islander: 0.4<br>
+0400000US05,05,Arkansas,2990671,White,79.3,AR,Arkansas<br>White: 79.3<br>
+0400000US06,06,California,39148760,American Indian or Alaska Native,1.9,CA,California<br>American Indian or Alaska Native: 1.9<br>
+0400000US06,06,California,39148760,Asian,16.4,CA,California<br>Asian: 16.4<br>
+0400000US06,06,California,39148760,Black,7,CA,California<br>Black: 7<br>
+0400000US06,06,California,39148760,Hispanic,38.9,CA,California<br>Hispanic: 38.9<br>
+0400000US06,06,California,39148760,Native Hawaiian or Pacific Islander,0.8,CA,California<br>Native Hawaiian or Pacific Islander: 0.8<br>
+0400000US06,06,California,39148760,White,64.1,CA,California<br>White: 64.1<br>
+0400000US08,08,Colorado,5531141,American Indian or Alaska Native,2.1,CO,Colorado<br>American Indian or Alaska Native: 2.1<br>
+0400000US08,08,Colorado,5531141,Asian,4.2,CO,Colorado<br>Asian: 4.2<br>
+0400000US08,08,Colorado,5531141,Black,5.3,CO,Colorado<br>Black: 5.3<br>
+0400000US08,08,Colorado,5531141,Hispanic,21.4,CO,Colorado<br>Hispanic: 21.4<br>
+0400000US08,08,Colorado,5531141,Native Hawaiian or Pacific Islander,0.4,CO,Colorado<br>Native Hawaiian or Pacific Islander: 0.4<br>
+0400000US08,08,Colorado,5531141,White,87.4,CO,Colorado<br>White: 87.4<br>
+0400000US09,09,Connecticut,3581504,American Indian or Alaska Native,1,CT,Connecticut<br>American Indian or Alaska Native: 1<br>
+0400000US09,09,Connecticut,3581504,Asian,5.3,CT,Connecticut<br>Asian: 5.3<br>
+0400000US09,09,Connecticut,3581504,Black,12.2,CT,Connecticut<br>Black: 12.2<br>
+0400000US09,09,Connecticut,3581504,Hispanic,15.7,CT,Connecticut<br>Hispanic: 15.7<br>
+0400000US09,09,Connecticut,3581504,Native Hawaiian or Pacific Islander,0.1,CT,Connecticut<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US09,09,Connecticut,3581504,White,78.9,CT,Connecticut<br>White: 78.9<br>
+0400000US10,10,Delaware,949495,American Indian or Alaska Native,1,DE,Delaware<br>American Indian or Alaska Native: 1<br>
+0400000US10,10,Delaware,949495,Asian,4.5,DE,Delaware<br>Asian: 4.5<br>
+0400000US10,10,Delaware,949495,Black,23.9,DE,Delaware<br>Black: 23.9<br>
+0400000US10,10,Delaware,949495,Hispanic,9.1,DE,Delaware<br>Hispanic: 9.1<br>
+0400000US10,10,Delaware,949495,Native Hawaiian or Pacific Islander,0.2,DE,Delaware<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US10,10,Delaware,949495,White,71.2,DE,Delaware<br>White: 71.2<br>
+0400000US11,11,District of Columbia,684498,American Indian or Alaska Native,0.9,DC,District of Columbia<br>American Indian or Alaska Native: 0.9<br>
+0400000US11,11,District of Columbia,684498,Asian,5.2,DC,District of Columbia<br>Asian: 5.2<br>
+0400000US11,11,District of Columbia,684498,Black,48.4,DC,District of Columbia<br>Black: 48.4<br>
+0400000US11,11,District of Columbia,684498,Hispanic,10.9,DC,District of Columbia<br>Hispanic: 10.9<br>
+0400000US11,11,District of Columbia,684498,Native Hawaiian or Pacific Islander,0.2,DC,District of Columbia<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US11,11,District of Columbia,684498,White,43.3,DC,District of Columbia<br>White: 43.3<br>
+0400000US12,12,Florida,20598139,American Indian or Alaska Native,0.8,FL,Florida<br>American Indian or Alaska Native: 0.8<br>
+0400000US12,12,Florida,20598139,Asian,3.5,FL,Florida<br>Asian: 3.5<br>
+0400000US12,12,Florida,20598139,Black,17.4,FL,Florida<br>Black: 17.4<br>
+0400000US12,12,Florida,20598139,Hispanic,25.2,FL,Florida<br>Hispanic: 25.2<br>
+0400000US12,12,Florida,20598139,Native Hawaiian or Pacific Islander,0.2,FL,Florida<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US12,12,Florida,20598139,White,77.6,FL,Florida<br>White: 77.6<br>
+0400000US13,13,Georgia,10297484,American Indian or Alaska Native,0.9,GA,Georgia<br>American Indian or Alaska Native: 0.9<br>
+0400000US13,13,Georgia,10297484,Asian,4.6,GA,Georgia<br>Asian: 4.6<br>
+0400000US13,13,Georgia,10297484,Black,32.8,GA,Georgia<br>Black: 32.8<br>
+0400000US13,13,Georgia,10297484,Hispanic,9.4,GA,Georgia<br>Hispanic: 9.4<br>
+0400000US13,13,Georgia,10297484,Native Hawaiian or Pacific Islander,0.2,GA,Georgia<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US13,13,Georgia,10297484,White,61,GA,Georgia<br>White: 61<br>
+0400000US15,15,Hawaii,1422029,American Indian or Alaska Native,2.4,HI,Hawaii<br>American Indian or Alaska Native: 2.4<br>
+0400000US15,15,Hawaii,1422029,Asian,56.5,HI,Hawaii<br>Asian: 56.5<br>
+0400000US15,15,Hawaii,1422029,Black,3.5,HI,Hawaii<br>Black: 3.5<br>
+0400000US15,15,Hawaii,1422029,Hispanic,10.4,HI,Hawaii<br>Hispanic: 10.4<br>
+0400000US15,15,Hawaii,1422029,Native Hawaiian or Pacific Islander,26.2,HI,Hawaii<br>Native Hawaiian or Pacific Islander: 26.2<br>
+0400000US15,15,Hawaii,1422029,White,43.1,HI,Hawaii<br>White: 43.1<br>
+0400000US16,16,Idaho,1687809,American Indian or Alaska Native,2.4,ID,Idaho<br>American Indian or Alaska Native: 2.4<br>
+0400000US16,16,Idaho,1687809,Asian,2.3,ID,Idaho<br>Asian: 2.3<br>
+0400000US16,16,Idaho,1687809,Black,1.2,ID,Idaho<br>Black: 1.2<br>
+0400000US16,16,Idaho,1687809,Hispanic,12.4,ID,Idaho<br>Hispanic: 12.4<br>
+0400000US16,16,Idaho,1687809,Native Hawaiian or Pacific Islander,0.4,ID,Idaho<br>Native Hawaiian or Pacific Islander: 0.4<br>
+0400000US16,16,Idaho,1687809,White,93.1,ID,Idaho<br>White: 93.1<br>
+0400000US17,17,Illinois,12821497,American Indian or Alaska Native,0.8,IL,Illinois<br>American Indian or Alaska Native: 0.8<br>
+0400000US17,17,Illinois,12821497,Asian,6.2,IL,Illinois<br>Asian: 6.2<br>
+0400000US17,17,Illinois,12821497,Black,15.3,IL,Illinois<br>Black: 15.3<br>
+0400000US17,17,Illinois,12821497,Hispanic,17,IL,Illinois<br>Hispanic: 17<br>
+0400000US17,17,Illinois,12821497,Native Hawaiian or Pacific Islander,0.1,IL,Illinois<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US17,17,Illinois,12821497,White,73.8,IL,Illinois<br>White: 73.8<br>
+0400000US18,18,Indiana,6637426,American Indian or Alaska Native,0.8,IN,Indiana<br>American Indian or Alaska Native: 0.8<br>
+0400000US18,18,Indiana,6637426,Asian,2.7,IN,Indiana<br>Asian: 2.7<br>
+0400000US18,18,Indiana,6637426,Black,10.7,IN,Indiana<br>Black: 10.7<br>
+0400000US18,18,Indiana,6637426,Hispanic,6.8,IN,Indiana<br>Hispanic: 6.8<br>
+0400000US18,18,Indiana,6637426,Native Hawaiian or Pacific Islander,0.1,IN,Indiana<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US18,18,Indiana,6637426,White,85.8,IN,Indiana<br>White: 85.8<br>
+0400000US19,19,Iowa,3132499,American Indian or Alaska Native,0.9,IA,Iowa<br>American Indian or Alaska Native: 0.9<br>
+0400000US19,19,Iowa,3132499,Asian,2.9,IA,Iowa<br>Asian: 2.9<br>
+0400000US19,19,Iowa,3132499,Black,4.6,IA,Iowa<br>Black: 4.6<br>
+0400000US19,19,Iowa,3132499,Hispanic,5.9,IA,Iowa<br>Hispanic: 5.9<br>
+0400000US19,19,Iowa,3132499,Native Hawaiian or Pacific Islander,0.2,IA,Iowa<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US19,19,Iowa,3132499,White,92.2,IA,Iowa<br>White: 92.2<br>
+0400000US20,20,Kansas,2908776,American Indian or Alaska Native,2.1,KS,Kansas<br>American Indian or Alaska Native: 2.1<br>
+0400000US20,20,Kansas,2908776,Asian,3.5,KS,Kansas<br>Asian: 3.5<br>
+0400000US20,20,Kansas,2908776,Black,7.4,KS,Kansas<br>Black: 7.4<br>
+0400000US20,20,Kansas,2908776,Hispanic,11.7,KS,Kansas<br>Hispanic: 11.7<br>
+0400000US20,20,Kansas,2908776,Native Hawaiian or Pacific Islander,0.2,KS,Kansas<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US20,20,Kansas,2908776,White,87.8,KS,Kansas<br>White: 87.8<br>
+0400000US21,21,Kentucky,4440204,American Indian or Alaska Native,0.8,KY,Kentucky<br>American Indian or Alaska Native: 0.8<br>
+0400000US21,21,Kentucky,4440204,Asian,1.8,KY,Kentucky<br>Asian: 1.8<br>
+0400000US21,21,Kentucky,4440204,Black,9.3,KY,Kentucky<br>Black: 9.3<br>
+0400000US21,21,Kentucky,4440204,Hispanic,3.6,KY,Kentucky<br>Hispanic: 3.6<br>
+0400000US21,21,Kentucky,4440204,Native Hawaiian or Pacific Islander,0.1,KY,Kentucky<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US21,21,Kentucky,4440204,White,89.2,KY,Kentucky<br>White: 89.2<br>
+0400000US22,22,Louisiana,4663616,American Indian or Alaska Native,1.3,LA,Louisiana<br>American Indian or Alaska Native: 1.3<br>
+0400000US22,22,Louisiana,4663616,Asian,2.1,LA,Louisiana<br>Asian: 2.1<br>
+0400000US22,22,Louisiana,4663616,Black,33.3,LA,Louisiana<br>Black: 33.3<br>
+0400000US22,22,Louisiana,4663616,Hispanic,5,LA,Louisiana<br>Hispanic: 5<br>
+0400000US22,22,Louisiana,4663616,Native Hawaiian or Pacific Islander,0.1,LA,Louisiana<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US22,22,Louisiana,4663616,White,63.9,LA,Louisiana<br>White: 63.9<br>
+0400000US23,23,Maine,1332813,American Indian or Alaska Native,1.7,ME,Maine<br>American Indian or Alaska Native: 1.7<br>
+0400000US23,23,Maine,1332813,Asian,1.7,ME,Maine<br>Asian: 1.7<br>
+0400000US23,23,Maine,1332813,Black,1.9,ME,Maine<br>Black: 1.9<br>
+0400000US23,23,Maine,1332813,Hispanic,1.6,ME,Maine<br>Hispanic: 1.6<br>
+0400000US23,23,Maine,1332813,Native Hawaiian or Pacific Islander,0.1,ME,Maine<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US23,23,Maine,1332813,White,96.6,ME,Maine<br>White: 96.6<br>
+0400000US24,24,Maryland,6003435,American Indian or Alaska Native,1,MD,Maryland<br>American Indian or Alaska Native: 1<br>
+0400000US24,24,Maryland,6003435,Asian,7.4,MD,Maryland<br>Asian: 7.4<br>
+0400000US24,24,Maryland,6003435,Black,31.6,MD,Maryland<br>Black: 31.6<br>
+0400000US24,24,Maryland,6003435,Hispanic,9.8,MD,Maryland<br>Hispanic: 9.8<br>
+0400000US24,24,Maryland,6003435,Native Hawaiian or Pacific Islander,0.2,MD,Maryland<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US24,24,Maryland,6003435,White,58.9,MD,Maryland<br>White: 58.9<br>
+0400000US25,25,Massachusetts,6830193,American Indian or Alaska Native,0.7,MA,Massachusetts<br>American Indian or Alaska Native: 0.7<br>
+0400000US25,25,Massachusetts,6830193,Asian,7.4,MA,Massachusetts<br>Asian: 7.4<br>
+0400000US25,25,Massachusetts,6830193,Black,9.2,MA,Massachusetts<br>Black: 9.2<br>
+0400000US25,25,Massachusetts,6830193,Hispanic,11.6,MA,Massachusetts<br>Hispanic: 11.6<br>
+0400000US25,25,Massachusetts,6830193,Native Hawaiian or Pacific Islander,0.2,MA,Massachusetts<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US25,25,Massachusetts,6830193,White,81.2,MA,Massachusetts<br>White: 81.2<br>
+0400000US26,26,Michigan,9957488,American Indian or Alaska Native,1.5,MI,Michigan<br>American Indian or Alaska Native: 1.5<br>
+0400000US26,26,Michigan,9957488,Asian,3.7,MI,Michigan<br>Asian: 3.7<br>
+0400000US26,26,Michigan,9957488,Black,15.2,MI,Michigan<br>Black: 15.2<br>
+0400000US26,26,Michigan,9957488,Hispanic,5,MI,Michigan<br>Hispanic: 5<br>
+0400000US26,26,Michigan,9957488,Native Hawaiian or Pacific Islander,0.1,MI,Michigan<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US26,26,Michigan,9957488,White,81.1,MI,Michigan<br>White: 81.1<br>
+0400000US27,27,Minnesota,5527358,American Indian or Alaska Native,1.9,MN,Minnesota<br>American Indian or Alaska Native: 1.9<br>
+0400000US27,27,Minnesota,5527358,Asian,5.6,MN,Minnesota<br>Asian: 5.6<br>
+0400000US27,27,Minnesota,5527358,Black,7.4,MN,Minnesota<br>Black: 7.4<br>
+0400000US27,27,Minnesota,5527358,Hispanic,5.3,MN,Minnesota<br>Hispanic: 5.3<br>
+0400000US27,27,Minnesota,5527358,Native Hawaiian or Pacific Islander,0.1,MN,Minnesota<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US27,27,Minnesota,5527358,White,85.9,MN,Minnesota<br>White: 85.9<br>
+0400000US28,28,Mississippi,2988762,American Indian or Alaska Native,0.8,MS,Mississippi<br>American Indian or Alaska Native: 0.8<br>
+0400000US28,28,Mississippi,2988762,Asian,1.2,MS,Mississippi<br>Asian: 1.2<br>
+0400000US28,28,Mississippi,2988762,Black,38.4,MS,Mississippi<br>Black: 38.4<br>
+0400000US28,28,Mississippi,2988762,Hispanic,3,MS,Mississippi<br>Hispanic: 3<br>
+0400000US28,28,Mississippi,2988762,Native Hawaiian or Pacific Islander,0.1,MS,Mississippi<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US28,28,Mississippi,2988762,White,59.8,MS,Mississippi<br>White: 59.8<br>
+0400000US29,29,Missouri,6090062,American Indian or Alaska Native,1.3,MO,Missouri<br>American Indian or Alaska Native: 1.3<br>
+0400000US29,29,Missouri,6090062,Asian,2.5,MO,Missouri<br>Asian: 2.5<br>
+0400000US29,29,Missouri,6090062,Black,12.8,MO,Missouri<br>Black: 12.8<br>
+0400000US29,29,Missouri,6090062,Hispanic,4.1,MO,Missouri<br>Hispanic: 4.1<br>
+0400000US29,29,Missouri,6090062,Native Hawaiian or Pacific Islander,0.2,MO,Missouri<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US29,29,Missouri,6090062,White,84.6,MO,Missouri<br>White: 84.6<br>
+0400000US30,30,Montana,1041732,American Indian or Alaska Native,8.2,MT,Montana<br>American Indian or Alaska Native: 8.2<br>
+0400000US30,30,Montana,1041732,Asian,1.3,MT,Montana<br>Asian: 1.3<br>
+0400000US30,30,Montana,1041732,Black,1,MT,Montana<br>Black: 1<br>
+0400000US30,30,Montana,1041732,Hispanic,3.7,MT,Montana<br>Hispanic: 3.7<br>
+0400000US30,30,Montana,1041732,Native Hawaiian or Pacific Islander,0.2,MT,Montana<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US30,30,Montana,1041732,White,91.5,MT,Montana<br>White: 91.5<br>
+0400000US31,31,Nebraska,1904760,American Indian or Alaska Native,1.7,NE,Nebraska<br>American Indian or Alaska Native: 1.7<br>
+0400000US31,31,Nebraska,1904760,Asian,2.9,NE,Nebraska<br>Asian: 2.9<br>
+0400000US31,31,Nebraska,1904760,Black,5.9,NE,Nebraska<br>Black: 5.9<br>
+0400000US31,31,Nebraska,1904760,Hispanic,10.7,NE,Nebraska<br>Hispanic: 10.7<br>
+0400000US31,31,Nebraska,1904760,Native Hawaiian or Pacific Islander,0.2,NE,Nebraska<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US31,31,Nebraska,1904760,White,89.8,NE,Nebraska<br>White: 89.8<br>
+0400000US32,32,Nevada,2922849,American Indian or Alaska Native,2.1,NV,Nevada<br>American Indian or Alaska Native: 2.1<br>
+0400000US32,32,Nevada,2922849,Asian,10.1,NV,Nevada<br>Asian: 10.1<br>
+0400000US32,32,Nevada,2922849,Black,10.6,NV,Nevada<br>Black: 10.6<br>
+0400000US32,32,Nevada,2922849,Hispanic,28.5,NV,Nevada<br>Hispanic: 28.5<br>
+0400000US32,32,Nevada,2922849,Native Hawaiian or Pacific Islander,1.4,NV,Nevada<br>Native Hawaiian or Pacific Islander: 1.4<br>
+0400000US32,32,Nevada,2922849,White,70.1,NV,Nevada<br>White: 70.1<br>
+0400000US33,33,New Hampshire,1343622,American Indian or Alaska Native,0.8,NH,New Hampshire<br>American Indian or Alaska Native: 0.8<br>
+0400000US33,33,New Hampshire,1343622,Asian,3.4,NH,New Hampshire<br>Asian: 3.4<br>
+0400000US33,33,New Hampshire,1343622,Black,2.2,NH,New Hampshire<br>Black: 2.2<br>
+0400000US33,33,New Hampshire,1343622,Hispanic,3.6,NH,New Hampshire<br>Hispanic: 3.6<br>
+0400000US33,33,New Hampshire,1343622,Native Hawaiian or Pacific Islander,0.1,NH,New Hampshire<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US33,33,New Hampshire,1343622,White,95,NH,New Hampshire<br>White: 95<br>
+0400000US34,34,New Jersey,8881845,American Indian or Alaska Native,0.7,NJ,New Jersey<br>American Indian or Alaska Native: 0.7<br>
+0400000US34,34,New Jersey,8881845,Asian,10.2,NJ,New Jersey<br>Asian: 10.2<br>
+0400000US34,34,New Jersey,8881845,Black,14.8,NJ,New Jersey<br>Black: 14.8<br>
+0400000US34,34,New Jersey,8881845,Hispanic,19.9,NJ,New Jersey<br>Hispanic: 19.9<br>
+0400000US34,34,New Jersey,8881845,Native Hawaiian or Pacific Islander,0.1,NJ,New Jersey<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US34,34,New Jersey,8881845,White,69.9,NJ,New Jersey<br>White: 69.9<br>
+0400000US35,35,New Mexico,2092434,American Indian or Alaska Native,10.7,NM,New Mexico<br>American Indian or Alaska Native: 10.7<br>
+0400000US35,35,New Mexico,2092434,Asian,2.4,NM,New Mexico<br>Asian: 2.4<br>
+0400000US35,35,New Mexico,2092434,Black,2.8,NM,New Mexico<br>Black: 2.8<br>
+0400000US35,35,New Mexico,2092434,Hispanic,48.5,NM,New Mexico<br>Hispanic: 48.5<br>
+0400000US35,35,New Mexico,2092434,Native Hawaiian or Pacific Islander,0.2,NM,New Mexico<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US35,35,New Mexico,2092434,White,77.1,NM,New Mexico<br>White: 77.1<br>
+0400000US36,36,New York,19618453,American Indian or Alaska Native,1.1,NY,New York<br>American Indian or Alaska Native: 1.1<br>
+0400000US36,36,New York,19618453,Asian,9.2,NY,New York<br>Asian: 9.2<br>
+0400000US36,36,New York,19618453,Black,17.2,NY,New York<br>Black: 17.2<br>
+0400000US36,36,New York,19618453,Hispanic,18.9,NY,New York<br>Hispanic: 18.9<br>
+0400000US36,36,New York,19618453,Native Hawaiian or Pacific Islander,0.2,NY,New York<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US36,36,New York,19618453,White,66.1,NY,New York<br>White: 66.1<br>
+0400000US37,37,North Carolina,10155624,American Indian or Alaska Native,2,NC,North Carolina<br>American Indian or Alaska Native: 2<br>
+0400000US37,37,North Carolina,10155624,Asian,3.4,NC,North Carolina<br>Asian: 3.4<br>
+0400000US37,37,North Carolina,10155624,Black,23,NC,North Carolina<br>Black: 23<br>
+0400000US37,37,North Carolina,10155624,Hispanic,9.2,NC,North Carolina<br>Hispanic: 9.2<br>
+0400000US37,37,North Carolina,10155624,Native Hawaiian or Pacific Islander,0.2,NC,North Carolina<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US37,37,North Carolina,10155624,White,71.1,NC,North Carolina<br>White: 71.1<br>
+0400000US38,38,North Dakota,752201,American Indian or Alaska Native,6.6,ND,North Dakota<br>American Indian or Alaska Native: 6.6<br>
+0400000US38,38,North Dakota,752201,Asian,2,ND,North Dakota<br>Asian: 2<br>
+0400000US38,38,North Dakota,752201,Black,3.3,ND,North Dakota<br>Black: 3.3<br>
+0400000US38,38,North Dakota,752201,Hispanic,3.5,ND,North Dakota<br>Hispanic: 3.5<br>
+0400000US38,38,North Dakota,752201,Native Hawaiian or Pacific Islander,0.2,ND,North Dakota<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US38,38,North Dakota,752201,White,89.4,ND,North Dakota<br>White: 89.4<br>
+0400000US39,39,Ohio,11641879,American Indian or Alaska Native,0.9,OH,Ohio<br>American Indian or Alaska Native: 0.9<br>
+0400000US39,39,Ohio,11641879,Asian,2.7,OH,Ohio<br>Asian: 2.7<br>
+0400000US39,39,Ohio,11641879,Black,14.1,OH,Ohio<br>Black: 14.1<br>
+0400000US39,39,Ohio,11641879,Hispanic,3.7,OH,Ohio<br>Hispanic: 3.7<br>
+0400000US39,39,Ohio,11641879,Native Hawaiian or Pacific Islander,0.1,OH,Ohio<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US39,39,Ohio,11641879,White,84.1,OH,Ohio<br>White: 84.1<br>
+0400000US40,40,Oklahoma,3918137,American Indian or Alaska Native,13.4,OK,Oklahoma<br>American Indian or Alaska Native: 13.4<br>
+0400000US40,40,Oklahoma,3918137,Asian,2.8,OK,Oklahoma<br>Asian: 2.8<br>
+0400000US40,40,Oklahoma,3918137,Black,9.1,OK,Oklahoma<br>Black: 9.1<br>
+0400000US40,40,Oklahoma,3918137,Hispanic,10.4,OK,Oklahoma<br>Hispanic: 10.4<br>
+0400000US40,40,Oklahoma,3918137,Native Hawaiian or Pacific Islander,0.2,OK,Oklahoma<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US40,40,Oklahoma,3918137,White,79.5,OK,Oklahoma<br>White: 79.5<br>
+0400000US41,41,Oregon,4081943,American Indian or Alaska Native,3.1,OR,Oregon<br>American Indian or Alaska Native: 3.1<br>
+0400000US41,41,Oregon,4081943,Asian,5.9,OR,Oregon<br>Asian: 5.9<br>
+0400000US41,41,Oregon,4081943,Black,2.9,OR,Oregon<br>Black: 2.9<br>
+0400000US41,41,Oregon,4081943,Hispanic,12.8,OR,Oregon<br>Hispanic: 12.8<br>
+0400000US41,41,Oregon,4081943,Native Hawaiian or Pacific Islander,0.8,OR,Oregon<br>Native Hawaiian or Pacific Islander: 0.8<br>
+0400000US41,41,Oregon,4081943,White,88.8,OR,Oregon<br>White: 88.8<br>
+0400000US42,42,Pennsylvania,12791181,American Indian or Alaska Native,0.8,PA,Pennsylvania<br>American Indian or Alaska Native: 0.8<br>
+0400000US42,42,Pennsylvania,12791181,Asian,3.9,PA,Pennsylvania<br>Asian: 3.9<br>
+0400000US42,42,Pennsylvania,12791181,Black,12.6,PA,Pennsylvania<br>Black: 12.6<br>
+0400000US42,42,Pennsylvania,12791181,Hispanic,7.1,PA,Pennsylvania<br>Hispanic: 7.1<br>
+0400000US42,42,Pennsylvania,12791181,Native Hawaiian or Pacific Islander,0.1,PA,Pennsylvania<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US42,42,Pennsylvania,12791181,White,82.9,PA,Pennsylvania<br>White: 82.9<br>
+0400000US44,44,Rhode Island,1056611,American Indian or Alaska Native,1.3,RI,Rhode Island<br>American Indian or Alaska Native: 1.3<br>
+0400000US44,44,Rhode Island,1056611,Asian,4.1,RI,Rhode Island<br>Asian: 4.1<br>
+0400000US44,44,Rhode Island,1056611,Black,8.1,RI,Rhode Island<br>Black: 8.1<br>
+0400000US44,44,Rhode Island,1056611,Hispanic,15,RI,Rhode Island<br>Hispanic: 15<br>
+0400000US44,44,Rhode Island,1056611,Native Hawaiian or Pacific Islander,0.2,RI,Rhode Island<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US44,44,Rhode Island,1056611,White,83.2,RI,Rhode Island<br>White: 83.2<br>
+0400000US45,45,South Carolina,4955925,American Indian or Alaska Native,1,SC,South Carolina<br>American Indian or Alaska Native: 1<br>
+0400000US45,45,South Carolina,4955925,Asian,2,SC,South Carolina<br>Asian: 2<br>
+0400000US45,45,South Carolina,4955925,Black,28.3,SC,South Carolina<br>Black: 28.3<br>
+0400000US45,45,South Carolina,4955925,Hispanic,5.6,SC,South Carolina<br>Hispanic: 5.6<br>
+0400000US45,45,South Carolina,4955925,Native Hawaiian or Pacific Islander,0.1,SC,South Carolina<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US45,45,South Carolina,4955925,White,69.2,SC,South Carolina<br>White: 69.2<br>
+0400000US46,46,South Dakota,864289,American Indian or Alaska Native,10.3,SD,South Dakota<br>American Indian or Alaska Native: 10.3<br>
+0400000US46,46,South Dakota,864289,Asian,1.8,SD,South Dakota<br>Asian: 1.8<br>
+0400000US46,46,South Dakota,864289,Black,2.6,SD,South Dakota<br>Black: 2.6<br>
+0400000US46,46,South Dakota,864289,Hispanic,3.7,SD,South Dakota<br>Hispanic: 3.7<br>
+0400000US46,46,South Dakota,864289,Native Hawaiian or Pacific Islander,0.1,SD,South Dakota<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US46,46,South Dakota,864289,White,87,SD,South Dakota<br>White: 87<br>
+0400000US47,47,Tennessee,6651089,American Indian or Alaska Native,0.9,TN,Tennessee<br>American Indian or Alaska Native: 0.9<br>
+0400000US47,47,Tennessee,6651089,Asian,2.1,TN,Tennessee<br>Asian: 2.1<br>
+0400000US47,47,Tennessee,6651089,Black,17.9,TN,Tennessee<br>Black: 17.9<br>
+0400000US47,47,Tennessee,6651089,Hispanic,5.3,TN,Tennessee<br>Hispanic: 5.3<br>
+0400000US47,47,Tennessee,6651089,Native Hawaiian or Pacific Islander,0.2,TN,Tennessee<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US47,47,Tennessee,6651089,White,79.6,TN,Tennessee<br>White: 79.6<br>
+0400000US48,48,Texas,27885195,American Indian or Alaska Native,1.2,TX,Texas<br>American Indian or Alaska Native: 1.2<br>
+0400000US48,48,Texas,27885195,Asian,5.4,TX,Texas<br>Asian: 5.4<br>
+0400000US48,48,Texas,27885195,Black,13.1,TX,Texas<br>Black: 13.1<br>
+0400000US48,48,Texas,27885195,Hispanic,39.2,TX,Texas<br>Hispanic: 39.2<br>
+0400000US48,48,Texas,27885195,Native Hawaiian or Pacific Islander,0.2,TX,Texas<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US48,48,Texas,27885195,White,76.6,TX,Texas<br>White: 76.6<br>
+0400000US49,49,Utah,3045350,American Indian or Alaska Native,1.8,UT,Utah<br>American Indian or Alaska Native: 1.8<br>
+0400000US49,49,Utah,3045350,Asian,3.4,UT,Utah<br>Asian: 3.4<br>
+0400000US49,49,Utah,3045350,Black,1.7,UT,Utah<br>Black: 1.7<br>
+0400000US49,49,Utah,3045350,Hispanic,13.9,UT,Utah<br>Hispanic: 13.9<br>
+0400000US49,49,Utah,3045350,Native Hawaiian or Pacific Islander,1.5,UT,Utah<br>Native Hawaiian or Pacific Islander: 1.5<br>
+0400000US49,49,Utah,3045350,White,89.1,UT,Utah<br>White: 89.1<br>
+0400000US50,50,Vermont,624977,American Indian or Alaska Native,1.3,VT,Vermont<br>American Indian or Alaska Native: 1.3<br>
+0400000US50,50,Vermont,624977,Asian,2.2,VT,Vermont<br>Asian: 2.2<br>
+0400000US50,50,Vermont,624977,Black,1.8,VT,Vermont<br>Black: 1.8<br>
+0400000US50,50,Vermont,624977,Hispanic,1.9,VT,Vermont<br>Hispanic: 1.9<br>
+0400000US50,50,Vermont,624977,Native Hawaiian or Pacific Islander,0.1,VT,Vermont<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US50,50,Vermont,624977,White,96.1,VT,Vermont<br>White: 96.1<br>
+0400000US51,51,Virginia,8413774,American Indian or Alaska Native,1,VA,Virginia<br>American Indian or Alaska Native: 1<br>
+0400000US51,51,Virginia,8413774,Asian,7.7,VA,Virginia<br>Asian: 7.7<br>
+0400000US51,51,Virginia,8413774,Black,21,VA,Virginia<br>Black: 21<br>
+0400000US51,51,Virginia,8413774,Hispanic,9.2,VA,Virginia<br>Hispanic: 9.2<br>
+0400000US51,51,Virginia,8413774,Native Hawaiian or Pacific Islander,0.2,VA,Virginia<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US51,51,Virginia,8413774,White,71.2,VA,Virginia<br>White: 71.2<br>
+0400000US53,53,Washington,7294336,American Indian or Alaska Native,3,WA,Washington<br>American Indian or Alaska Native: 3<br>
+0400000US53,53,Washington,7294336,Asian,10.7,WA,Washington<br>Asian: 10.7<br>
+0400000US53,53,Washington,7294336,Black,5.5,WA,Washington<br>Black: 5.5<br>
+0400000US53,53,Washington,7294336,Hispanic,12.5,WA,Washington<br>Hispanic: 12.5<br>
+0400000US53,53,Washington,7294336,Native Hawaiian or Pacific Islander,1.2,WA,Washington<br>Native Hawaiian or Pacific Islander: 1.2<br>
+0400000US53,53,Washington,7294336,White,81.1,WA,Washington<br>White: 81.1<br>
+0400000US54,54,West Virginia,1829054,American Indian or Alaska Native,0.7,WV,West Virginia<br>American Indian or Alaska Native: 0.7<br>
+0400000US54,54,West Virginia,1829054,Asian,1.1,WV,West Virginia<br>Asian: 1.1<br>
+0400000US54,54,West Virginia,1829054,Black,4.6,WV,West Virginia<br>Black: 4.6<br>
+0400000US54,54,West Virginia,1829054,Hispanic,1.5,WV,West Virginia<br>Hispanic: 1.5<br>
+0400000US54,54,West Virginia,1829054,Native Hawaiian or Pacific Islander,0.1,WV,West Virginia<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US54,54,West Virginia,1829054,White,94.8,WV,West Virginia<br>White: 94.8<br>
+0400000US55,55,Wisconsin,5778394,American Indian or Alaska Native,1.6,WI,Wisconsin<br>American Indian or Alaska Native: 1.6<br>
+0400000US55,55,Wisconsin,5778394,Asian,3.3,WI,Wisconsin<br>Asian: 3.3<br>
+0400000US55,55,Wisconsin,5778394,Black,7.5,WI,Wisconsin<br>Black: 7.5<br>
+0400000US55,55,Wisconsin,5778394,Hispanic,6.7,WI,Wisconsin<br>Hispanic: 6.7<br>
+0400000US55,55,Wisconsin,5778394,Native Hawaiian or Pacific Islander,0.1,WI,Wisconsin<br>Native Hawaiian or Pacific Islander: 0.1<br>
+0400000US55,55,Wisconsin,5778394,White,87.8,WI,Wisconsin<br>White: 87.8<br>
+0400000US56,56,Wyoming,581836,American Indian or Alaska Native,3.7,WY,Wyoming<br>American Indian or Alaska Native: 3.7<br>
+0400000US56,56,Wyoming,581836,Asian,1.4,WY,Wyoming<br>Asian: 1.4<br>
+0400000US56,56,Wyoming,581836,Black,1.6,WY,Wyoming<br>Black: 1.6<br>
+0400000US56,56,Wyoming,581836,Hispanic,9.8,WY,Wyoming<br>Hispanic: 9.8<br>
+0400000US56,56,Wyoming,581836,Native Hawaiian or Pacific Islander,0.2,WY,Wyoming<br>Native Hawaiian or Pacific Islander: 0.2<br>
+0400000US56,56,Wyoming,581836,White,94,WY,Wyoming<br>White: 94<br>
